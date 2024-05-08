@@ -1,0 +1,514 @@
+{'text': "dear Oscar our van okay so and now it's", 'start': 0.06, 'duration': 12.3}
+{'text': 'John John guy who will speak to us and -', 'start': 7.34, 'duration': 7.54}
+{'text': "we will stop until 4:00 and we'll come", 'start': 12.36, 'duration': 5.04}
+{'text': "back from 4:00 to 6:00 it's an honor to", 'start': 14.88, 'duration': 4.47}
+{'text': 'have John John died once again on stage', 'start': 17.4, 'duration': 13.68}
+{'text': 'welcome good afternoon everyone so today', 'start': 19.35, 'duration': 15.95}
+{'text': 'I could have some slideshow of my place', 'start': 31.08, 'duration': 9.15}
+{'text': "behind the screen why I'm talking so you", 'start': 35.3, 'duration': 7.96}
+{'text': 'can imagine how it looked like but this', 'start': 40.23, 'duration': 5.88}
+{'text': 'slideshow is quite all many years ago', 'start': 43.26, 'duration': 5.91}
+{'text': 'and in this one picture is not from my', 'start': 46.11, 'duration': 6.089}
+{'text': "farm it's like a picture of Adobe house", 'start': 49.17, 'duration': 5.549}
+{'text': "in Taos Pueblo that's the first adobe", 'start': 52.199, 'duration': 7.25}
+{'text': 'house that I have seen in my life so', 'start': 54.719, 'duration': 9.541}
+{'text': "today I'm gonna talk about education um", 'start': 59.449, 'duration': 7.871}
+{'text': "I don't have a lot of experience about", 'start': 64.26, 'duration': 6.99}
+{'text': 'education but I will share my experience', 'start': 67.32, 'duration': 6.869}
+{'text': "I don't", 'start': 71.25, 'duration': 5.159}
+{'text': 'I did not interested about education', 'start': 74.189, 'duration': 6.481}
+{'text': 'before until one day my wife told me', 'start': 76.409, 'duration': 7.951}
+{'text': "that she pregnant so that's the first", 'start': 80.67, 'duration': 6.71}
+{'text': 'time I need to think about education', 'start': 84.36, 'duration': 6.03}
+{'text': "before that I just I don't want to", 'start': 87.38, 'duration': 5.44}
+{'text': "involve about education I I don't want", 'start': 90.39, 'duration': 6.32}
+{'text': 'to be with kids much I feel like that', 'start': 92.82, 'duration': 9.18}
+{'text': 'but when my wife my wife told me that', 'start': 96.71, 'duration': 7.51}
+{'text': 'she pregnant I said to look at people', 'start': 102.0, 'duration': 7.909}
+{'text': 'nearby me I see many kids very different', 'start': 104.22, 'duration': 8.55}
+{'text': 'some kid is very naughty some kids very', 'start': 109.909, 'duration': 8.1}
+{'text': 'bully and then I start to observe him', 'start': 112.77, 'duration': 8.19}
+{'text': 'many kids they have problem when you', 'start': 118.009, 'duration': 6.491}
+{'text': 'look at their parents you can start to', 'start': 120.96, 'duration': 8.189}
+{'text': 'see that their parents have problem', 'start': 124.5, 'duration': 7.11}
+{'text': 'the kids has no problem their parents', 'start': 129.149, 'duration': 4.891}
+{'text': 'has no problem so the kid is like a', 'start': 131.61, 'duration': 6.329}
+{'text': 'mirror that make me think about how can', 'start': 134.04, 'duration': 8.97}
+{'text': 'i educate my kid how can what do I want', 'start': 137.939, 'duration': 10.83}
+{'text': 'my kid to be so mainly the kid that has', 'start': 143.01, 'duration': 11.94}
+{'text': 'problem parent always have non stable', 'start': 148.769, 'duration': 9.36}
+{'text': 'not emerge the emotion is not stable', 'start': 154.95, 'duration': 5.61}
+{'text': "it's like either they use a lot of", 'start': 158.129, 'duration': 6.72}
+{'text': 'emotional thing together so the kids', 'start': 160.56, 'duration': 8.539}
+{'text': 'always have problem so I start to', 'start': 164.849, 'duration': 7.911}
+{'text': 'observe that kids to never have problem', 'start': 169.099, 'duration': 8.86}
+{'text': 'only prob only parents have problem but', 'start': 172.76, 'duration': 8.41}
+{'text': 'we always blame kids the kids not good', 'start': 177.959, 'duration': 7.65}
+{'text': 'the kids has problem so I talked with my', 'start': 181.17, 'duration': 7.8}
+{'text': 'wife how can we do this so we think', 'start': 185.609, 'duration': 9.99}
+{'text': 'about you plan to not use like a strong', 'start': 188.97, 'duration': 13.889}
+{'text': 'emotion together we start from when she', 'start': 195.599, 'duration': 9.6}
+{'text': 'was pregnant we will not do anything', 'start': 202.859, 'duration': 7.321}
+{'text': 'that have argument non-violence in our', 'start': 205.199, 'duration': 10.41}
+{'text': "family we started so I it's very good", 'start': 210.18, 'duration': 8.089}
+{'text': "for me because that's the way I learn", 'start': 215.609, 'duration': 9.141}
+{'text': 'learn how to not use strong emotion', 'start': 218.269, 'duration': 12.071}
+{'text': 'learn how to try to use listen try to', 'start': 224.75, 'duration': 10.229}
+{'text': 'use consciousness more than use emotion', 'start': 230.34, 'duration': 9.5}
+{'text': "whatever I don't like it I just bring", 'start': 234.979, 'duration': 12.641}
+{'text': 'just look at my my wife boom that look', 'start': 239.84, 'duration': 9.94}
+{'text': 'at that boom and then it remind me oh', 'start': 247.62, 'duration': 5.609}
+{'text': 'and why need to err why do I have to', 'start': 249.78, 'duration': 6.569}
+{'text': 'angry with this thing so it helped me to', 'start': 253.229, 'duration': 7.951}
+{'text': 'come back to my cell more to question', 'start': 256.349, 'duration': 6.781}
+{'text': 'more why do I have to angry with this', 'start': 261.18, 'duration': 5.97}
+{'text': 'him when I investigate deeply and an', 'start': 263.13, 'duration': 7.02}
+{'text': "accident oh because I don't understand", 'start': 267.15, 'duration': 5.88}
+{'text': 'it when I understand it I cannot angry', 'start': 270.15, 'duration': 6.12}
+{'text': 'at it or sometimes I see oh because she', 'start': 273.03, 'duration': 4.95}
+{'text': "doesn't understand it she did not", 'start': 276.27, 'duration': 3.93}
+{'text': 'understand it so I have no reason to', 'start': 277.98, 'duration': 7.11}
+{'text': 'angry at her so after we have we know', 'start': 280.2, 'duration': 8.48}
+{'text': 'that we have pregnant my wife pregnant', 'start': 285.09, 'duration': 7.25}
+{'text': "it's very good practice for us to not", 'start': 288.68, 'duration': 7.96}
+{'text': 'angry so our family is very nice after', 'start': 292.34, 'duration': 10.33}
+{'text': 'that so I think my son is like my', 'start': 296.64, 'duration': 11.49}
+{'text': 'teacher after that and in when we when', 'start': 302.67, 'duration': 9.77}
+{'text': 'my wife labor we start to think about', 'start': 308.13, 'duration': 9.93}
+{'text': 'how can we educate our son because in', 'start': 312.44, 'duration': 9.43}
+{'text': 'Thailand is quite expensive to send kids', 'start': 318.06, 'duration': 8.34}
+{'text': 'through school and in I start to see', 'start': 321.87, 'duration': 7.65}
+{'text': 'that education system in my country is', 'start': 326.4, 'duration': 8.43}
+{'text': 'very destructive system I feel like a', 'start': 329.52, 'duration': 9.84}
+{'text': "education system ruin many people's life", 'start': 334.83, 'duration': 12.3}
+{'text': 'and ruin the country because I saw many', 'start': 339.36, 'duration': 12.27}
+{'text': 'family who are poor but there try to', 'start': 347.13, 'duration': 7.44}
+{'text': 'work very hard and use all their money', 'start': 351.63, 'duration': 5.55}
+{'text': 'to send their kid to a school to get a', 'start': 354.57, 'duration': 8.58}
+{'text': 'education for many years they spend', 'start': 357.18, 'duration': 9.12}
+{'text': 'money on education they work hard for', 'start': 363.15, 'duration': 6.09}
+{'text': 'many years but after the kid finish', 'start': 366.3, 'duration': 7.04}
+{'text': 'University that kid cannot do anything', 'start': 369.24, 'duration': 6.9}
+{'text': 'so we spend a lot of money to train our', 'start': 373.34, 'duration': 8.62}
+{'text': "kid to be handicapped person so it's", 'start': 376.14, 'duration': 9.33}
+{'text': 'very restful time and money so if they', 'start': 381.96, 'duration': 6.59}
+{'text': 'have no kid they can use their money to', 'start': 385.47, 'duration': 5.73}
+{'text': 'develop themself they can have a good', 'start': 388.55, 'duration': 5.55}
+{'text': 'life have a better life so I think', 'start': 391.2, 'duration': 5.61}
+{'text': 'education', 'start': 394.1, 'duration': 11.71}
+{'text': 'kill a lot of people minds our future so', 'start': 396.81, 'duration': 10.59}
+{'text': "I think I don't want to send my kid to", 'start': 405.81, 'duration': 6.06}
+{'text': 'school how can I design the education', 'start': 407.4, 'duration': 7.74}
+{'text': 'for my kid so he can be normal people', 'start': 411.87, 'duration': 7.44}
+{'text': 'who can help himself more and then he', 'start': 415.14, 'duration': 7.23}
+{'text': 'will not be a burden for anybody because', 'start': 419.31, 'duration': 6.53}
+{'text': 'in in Thai culture we have culture that', 'start': 422.37, 'duration': 5.61}
+{'text': 'parent need to take care of the kid', 'start': 425.84, 'duration': 5.28}
+{'text': 'everything even they grew up married', 'start': 427.98, 'duration': 7.77}
+{'text': 'parent had to take care of their baby so', 'start': 431.12, 'duration': 8.11}
+{'text': "it's a big burden until they die so how", 'start': 435.75, 'duration': 5.79}
+{'text': "can we don't we don't want to be like", 'start': 439.23, 'duration': 5.37}
+{'text': 'that how can we avoid it so we think', 'start': 441.54, 'duration': 5.52}
+{'text': 'about we want to design new way of', 'start': 444.6, 'duration': 7.11}
+{'text': 'Education and then we notice that the', 'start': 447.06, 'duration': 7.08}
+{'text': 'kid that have problem are the kids that', 'start': 451.71, 'duration': 5.28}
+{'text': 'grew up in the family with no love no', 'start': 454.14, 'duration': 8.7}
+{'text': 'freedom because some parent the thing', 'start': 456.99, 'duration': 8.1}
+{'text': 'they love their kid they try to give the', 'start': 462.84, 'duration': 3.68}
+{'text': 'best thing for the kid', 'start': 465.09, 'duration': 6.57}
+{'text': "but it's overprotective that like oh you", 'start': 466.52, 'duration': 7.3}
+{'text': 'put poison on your kid the kid cannot do', 'start': 471.66, 'duration': 7.35}
+{'text': 'anything so when we think about', 'start': 473.82, 'duration': 8.22}
+{'text': 'education we think about when we was', 'start': 479.01, 'duration': 5.79}
+{'text': 'when I was kid I have a lot of freedom I', 'start': 482.04, 'duration': 6.33}
+{'text': 'can go anywhere when it was kid and then', 'start': 484.8, 'duration': 8.64}
+{'text': "I learned a lot even it's not what the", 'start': 488.37, 'duration': 6.75}
+{'text': 'people teach in the school but', 'start': 493.44, 'duration': 3.45}
+{'text': 'everything I learned when I was kid I', 'start': 495.12, 'duration': 4.77}
+{'text': 'use in my life but everything I learned', 'start': 496.89, 'duration': 9.62}
+{'text': 'in school I never used it so that make', 'start': 499.89, 'duration': 10.589}
+{'text': 'our family to desire education new', 'start': 506.51, 'duration': 7.39}
+{'text': 'education that we think about is we', 'start': 510.479, 'duration': 7.62}
+{'text': "teaching without teaching that's the", 'start': 513.9, 'duration': 8.009}
+{'text': 'idea because we give only the technique', 'start': 518.099, 'duration': 7.681}
+{'text': 'how to looking for knowledge but we', 'start': 521.909, 'duration': 7.291}
+{'text': "don't teach the knowledge to the kid so", 'start': 525.78, 'duration': 4.5}
+{'text': 'what we teach is', 'start': 529.2, 'duration': 4.59}
+{'text': 'language how to read how to write and in', 'start': 530.28, 'duration': 7.11}
+{'text': 'math a little bit after they know how to', 'start': 533.79, 'duration': 5.31}
+{'text': "read how to write that's mean they have", 'start': 537.39, 'duration': 9.48}
+{'text': 'tools to looking for what they want so', 'start': 539.1, 'duration': 14.04}
+{'text': 'after that we just let them free my role', 'start': 546.87, 'duration': 9.06}
+{'text': "our role as a teacher we don't need to", 'start': 553.14, 'duration': 6.3}
+{'text': "teach teacher don't need to teach we", 'start': 555.93, 'duration': 7.98}
+{'text': 'just be a good supporter just help them', 'start': 559.44, 'duration': 7.04}
+{'text': 'whatever they need', 'start': 563.91, 'duration': 5.67}
+{'text': "don't try to intervene s' their learning", 'start': 566.48, 'duration': 8.29}
+{'text': 'process in Thailand we have a lot of', 'start': 569.58, 'duration': 8.61}
+{'text': 'problem in most of family parents have', 'start': 574.77, 'duration': 6.27}
+{'text': 'some dreams but they cannot make their', 'start': 578.19, 'duration': 7.53}
+{'text': 'dream come true and then they push their', 'start': 581.04, 'duration': 7.02}
+{'text': 'dream into their kids they want their', 'start': 585.72, 'duration': 5.1}
+{'text': "kids to do what they want to do that's", 'start': 588.06, 'duration': 6.18}
+{'text': 'the big problem in the country in my', 'start': 590.82, 'duration': 7.2}
+{'text': 'country it caused suffering for both', 'start': 594.24, 'duration': 6.54}
+{'text': "sigh so the kids don't like to be doctor", 'start': 598.02, 'duration': 6.9}
+{'text': 'but parents want to be doctor so their', 'start': 600.78, 'duration': 6.84}
+{'text': 'foster kid to learn to be doctor the', 'start': 604.92, 'duration': 5.25}
+{'text': 'kids spend on more than 20 years to', 'start': 607.62, 'duration': 4.71}
+{'text': 'learn to be a doctor after finish the', 'start': 610.17, 'duration': 5.79}
+{'text': "doctor he don't want to be a doctor so", 'start': 612.33, 'duration': 8.31}
+{'text': 'he become a musician so he wears his', 'start': 615.96, 'duration': 8.22}
+{'text': 'time more than 20 years and parents', 'start': 620.64, 'duration': 7.41}
+{'text': 'upset and I so', 'start': 624.18, 'duration': 6.18}
+{'text': 'nobody kept benefit from that thing but', 'start': 628.05, 'duration': 7.5}
+{'text': 'nobody learned from this lesson so we', 'start': 630.36, 'duration': 8.43}
+{'text': 'talk together we will not intervene our', 'start': 635.55, 'duration': 7.92}
+{'text': 'son dreams he can dream he can do', 'start': 638.79, 'duration': 10.11}
+{'text': "whatever he wanted you so we don't", 'start': 643.47, 'duration': 9.6}
+{'text': 'choose him we let him looking for what', 'start': 648.9, 'duration': 8.01}
+{'text': 'he want to know 4 years old he said dad', 'start': 653.07, 'duration': 8.99}
+{'text': 'I want to sell both around the world', 'start': 656.91, 'duration': 8.87}
+{'text': 'I talked with my friend already I will', 'start': 662.06, 'duration': 7.5}
+{'text': 'be captain I will be the pirate he said', 'start': 665.78, 'duration': 8.7}
+{'text': 'my his friend gonna be captain I said', 'start': 669.56, 'duration': 10.02}
+{'text': "it's good idea it's incredible idea it's", 'start': 674.48, 'duration': 6.99}
+{'text': 'very fun if you travel a lot of all with', 'start': 679.58, 'duration': 6.09}
+{'text': 'sailboat but what did what Jen what do', 'start': 681.47, 'duration': 6.72}
+{'text': 'you need to know if you want to sail', 'start': 685.67, 'duration': 5.34}
+{'text': 'around the boat he went away for a long', 'start': 688.19, 'duration': 5.34}
+{'text': 'time and he came back dad I need compass', 'start': 691.01, 'duration': 4.89}
+{'text': 'I need watch', 'start': 693.53, 'duration': 6.66}
+{'text': 'I need map so I just got this thing for', 'start': 695.9, 'duration': 9.63}
+{'text': 'him not really long less than half a day', 'start': 700.19, 'duration': 8.25}
+{'text': 'he went away somewhere and he he came', 'start': 705.53, 'duration': 4.77}
+{'text': 'back and said I know how to use compass', 'start': 708.44, 'duration': 7.91}
+{'text': 'now and it not very long he know how to', 'start': 710.3, 'duration': 6.05}
+{'text': 'read the time on the watch on the clock', 'start': 716.38, 'duration': 7.36}
+{'text': "and they're not really long he know how", 'start': 720.67, 'duration': 5.2}
+{'text': 'to read the map you know what is contour', 'start': 723.74, 'duration': 6.78}
+{'text': 'line you know the height does make me', 'start': 725.87, 'duration': 7.95}
+{'text': 'feel like a o education is so easy you', 'start': 730.52, 'duration': 8.13}
+{'text': "don't need to do anything when people", 'start': 733.82, 'duration': 9.78}
+{'text': 'love something they learn it very fast', 'start': 738.65, 'duration': 9.78}
+{'text': 'I just think about myself when I was a', 'start': 743.6, 'duration': 8.04}
+{'text': 'novice I ordained as a novice but we', 'start': 748.43, 'duration': 6.78}
+{'text': 'were forced to study Sanskrit nobody', 'start': 751.64, 'duration': 5.31}
+{'text': 'speak Sanskrit in the world right now', 'start': 755.21, 'duration': 3.59}
+{'text': 'right', 'start': 756.95, 'duration': 4.68}
+{'text': 'but in Buddhist country we need to learn', 'start': 758.8, 'duration': 7.0}
+{'text': 'Sanskrit I spent two years practice', 'start': 761.63, 'duration': 6.9}
+{'text': 'writing and reading Sanskrit and then I', 'start': 765.8, 'duration': 6.44}
+{'text': 'can read I can write but after two years', 'start': 768.53, 'duration': 6.99}
+{'text': 'three years later I did not use it I', 'start': 772.24, 'duration': 7.27}
+{'text': "forgot all of it so I've asked a lot of", 'start': 775.52, 'duration': 5.97}
+{'text': 'my time to do something that I will', 'start': 779.51, 'duration': 6.24}
+{'text': 'never use it that make me think about my', 'start': 781.49, 'duration': 8.88}
+{'text': 'son a lot so I feel like whenever he', 'start': 785.75, 'duration': 6.63}
+{'text': 'loves something he will learn very fast', 'start': 790.37, 'duration': 5.209}
+{'text': 'and then the kid', 'start': 792.38, 'duration': 5.939}
+{'text': 'their brain is very open to everything', 'start': 795.579, 'duration': 5.5}
+{'text': "they're ready to run everything but not", 'start': 798.319, 'duration': 5.19}
+{'text': "in the same time so that's the mistake", 'start': 801.079, 'duration': 5.911}
+{'text': 'of curriculum in the education system we', 'start': 803.509, 'duration': 5.551}
+{'text': 'make the curriculum for them we want', 'start': 806.99, 'duration': 3.45}
+{'text': 'them to learn eight subject', 'start': 809.06, 'duration': 4.459}
+{'text': "ten subject that's the big mistake", 'start': 810.44, 'duration': 5.97}
+{'text': "because they don't like it we forced", 'start': 813.519, 'duration': 7.0}
+{'text': 'them to learn they unhappy we first kid', 'start': 816.41, 'duration': 9.779}
+{'text': 'to be suffer from three years old we', 'start': 820.519, 'duration': 11.791}
+{'text': 'forced them to learn kids need to be fun', 'start': 826.189, 'duration': 9.031}
+{'text': "and happy they don't need to be stressed", 'start': 832.31, 'duration': 9.36}
+{'text': "they don't need to be too busy busy is", 'start': 835.22, 'duration': 9.96}
+{'text': "adult people who don't know what to do", 'start': 841.67, 'duration': 5.039}
+{'text': 'with their life they just make a life', 'start': 845.18, 'duration': 6.0}
+{'text': 'busy but the kid they want to spend', 'start': 846.709, 'duration': 9.661}
+{'text': 'their life to learn so the caracal', 'start': 851.18, 'duration': 8.159}
+{'text': 'curriculum that we have now is the big', 'start': 856.37, 'duration': 7.68}
+{'text': 'problem for education system so we let', 'start': 859.339, 'duration': 10.381}
+{'text': 'our kid learn whatever he wants you our', 'start': 864.05, 'duration': 9.81}
+{'text': 'job is just to support him we never', 'start': 869.72, 'duration': 8.0}
+{'text': 'teach him much we did not teach him much', 'start': 873.86, 'duration': 9.779}
+{'text': 'but we can see the progress he is so', 'start': 877.72, 'duration': 9.88}
+{'text': 'different from kid in the school four', 'start': 883.639, 'duration': 8.94}
+{'text': 'years old he go to the water I told him', 'start': 887.6, 'duration': 7.88}
+{'text': 'to swim how to swim explain to him and', 'start': 892.579, 'duration': 7.651}
+{'text': 'control him in the water not really long', 'start': 895.48, 'duration': 7.63}
+{'text': 'he just tried to struggle not very long', 'start': 900.23, 'duration': 9.02}
+{'text': 'he can swim he wanted right bicycle I', 'start': 903.11, 'duration': 10.38}
+{'text': 'think six years old he want to x12 by', 'start': 909.25, 'duration': 8.529}
+{'text': 'because a lot of friends bike I put him', 'start': 913.49, 'duration': 6.42}
+{'text': 'on the bike and I pushed the bike', 'start': 917.779, 'duration': 6.3}
+{'text': 'downhill not very steep hill many people', 'start': 919.91, 'duration': 6.419}
+{'text': 'just hold a buy for him for the kid and', 'start': 924.079, 'duration': 4.551}
+{'text': 'then they can learn how to pedal', 'start': 926.329, 'duration': 5.241}
+{'text': "but when you push it it's just go and", 'start': 928.63, 'duration': 11.67}
+{'text': 'then he learn so when he have confident', 'start': 931.57, 'duration': 11.67}
+{'text': 'when he can learn how to make decision', 'start': 940.3, 'duration': 5.82}
+{'text': 'by himself he learned how to solve the', 'start': 943.24, 'duration': 8.13}
+{'text': 'problem very fast so he learned to bite', 'start': 946.12, 'duration': 8.61}
+{'text': 'without practicing at all just one time', 'start': 951.37, 'duration': 8.43}
+{'text': "one day and he go so that's one thing I", 'start': 954.73, 'duration': 7.44}
+{'text': "feel like it's very incredible the way", 'start': 959.8, 'duration': 5.49}
+{'text': "the kids learn if we don't intervene", 'start': 962.17, 'duration': 8.51}
+{'text': 'much with the process they learn fast', 'start': 965.29, 'duration': 12.63}
+{'text': 'and then one thing is I never I bought', 'start': 970.68, 'duration': 10.27}
+{'text': 'toys for my son only four times in my', 'start': 977.92, 'duration': 8.76}
+{'text': 'life before four years', 'start': 980.95, 'duration': 9.27}
+{'text': 'I bought some toy for him but after four', 'start': 986.68, 'duration': 7.59}
+{'text': 'years I stopped buying toy I took him to', 'start': 990.22, 'duration': 7.23}
+{'text': 'the city one day and he saw the toy shop', 'start': 994.27, 'duration': 5.79}
+{'text': "he's there's a lot a big truck a lot of", 'start': 997.45, 'duration': 6.33}
+{'text': 'toy he said that I want a big truck is', 'start': 1000.06, 'duration': 9.78}
+{'text': 'so beautiful I told him that the truck', 'start': 1003.78, 'duration': 10.95}
+{'text': 'made from China is very cheap in the', 'start': 1009.84, 'duration': 7.17}
+{'text': 'very cheap plastic after you use it', 'start': 1014.73, 'duration': 7.26}
+{'text': "won't be long even break so in big it", 'start': 1017.01, 'duration': 8.64}
+{'text': 'will become a cabbage after that and', 'start': 1021.99, 'duration': 7.349}
+{'text': 'then he said okay that I just want a', 'start': 1025.65, 'duration': 7.02}
+{'text': 'small one so I bought a small one for', 'start': 1029.339, 'duration': 5.971}
+{'text': "him that's the last time I bought toy", 'start': 1032.67, 'duration': 9.81}
+{'text': 'for him I feel like when we explain', 'start': 1035.31, 'duration': 9.81}
+{'text': 'thing to him with listen he understand', 'start': 1042.48, 'duration': 7.68}
+{'text': 'listen we never use strong emotion with', 'start': 1045.12, 'duration': 9.54}
+{'text': 'with our son so he never used emotion he', 'start': 1050.16, 'duration': 7.44}
+{'text': 'used listen he used more consciousness', 'start': 1054.66, 'duration': 6.24}
+{'text': 'to think he think more he used less and', 'start': 1057.6, 'duration': 4.5}
+{'text': 'more to try', 'start': 1060.9, 'duration': 4.23}
+{'text': 'understand why do any death by to do any', 'start': 1062.1, 'duration': 6.329}
+{'text': "death so that's one thing that is", 'start': 1065.13, 'duration': 5.85}
+{'text': 'against my belief before before that we', 'start': 1068.429, 'duration': 4.74}
+{'text': "think kiss doesn't know anything we can", 'start': 1070.98, 'duration': 4.97}
+{'text': 'lie to the kid', 'start': 1073.169, 'duration': 2.781}
+{'text': 'but actually they keep very clever', 'start': 1076.88, 'duration': 9.33}
+{'text': 'clever and human trevor then adult', 'start': 1079.88, 'duration': 12.37}
+{'text': 'because i noticed that if you lie to the', 'start': 1086.21, 'duration': 10.12}
+{'text': 'kid the kid start to lie to ask you they', 'start': 1092.25, 'duration': 7.08}
+{'text': 'study they understand our psychology is', 'start': 1096.33, 'duration': 6.63}
+{'text': 'very quick they know what they want and', 'start': 1099.33, 'duration': 6.479}
+{'text': 'they know how to get what they want if', 'start': 1102.96, 'duration': 4.56}
+{'text': 'they cry and they get what they want', 'start': 1105.809, 'duration': 5.221}
+{'text': 'next time they will cry if Herrin cannot', 'start': 1107.52, 'duration': 7.159}
+{'text': 'get along very well they know who to go', 'start': 1111.03, 'duration': 6.06}
+{'text': 'to talk with to get what they want', 'start': 1114.679, 'duration': 10.0}
+{'text': "easily so they're clever so i did not", 'start': 1117.09, 'duration': 10.469}
+{'text': 'buy toy for my kid at all after that', 'start': 1124.679, 'duration': 8.311}
+{'text': 'because after four years one day he came', 'start': 1127.559, 'duration': 8.281}
+{'text': 'then i want to get a Lego it cost quite', 'start': 1132.99, 'duration': 7.679}
+{'text': 'a lot of money so I told him oh our', 'start': 1135.84, 'duration': 7.8}
+{'text': 'family we did not work to make money', 'start': 1140.669, 'duration': 5.49}
+{'text': "we never have income so that's quite", 'start': 1143.64, 'duration': 6.45}
+{'text': 'expensive but if you want it is ok how', 'start': 1146.159, 'duration': 8.15}
+{'text': 'can we make money if you want to have it', 'start': 1150.09, 'duration': 6.959}
+{'text': 'you can go and think how can we make', 'start': 1154.309, 'duration': 6.071}
+{'text': 'money so he walked away and he went to', 'start': 1157.049, 'duration': 6.391}
+{'text': "sit in a coffee shop and they're not", 'start': 1160.38, 'duration': 4.799}
+{'text': 'very long he asked him can you teach me', 'start': 1163.44, 'duration': 5.46}
+{'text': 'how to make cookie so they teach him how', 'start': 1165.179, 'duration': 9.48}
+{'text': "to make cookie so making cookie is it's", 'start': 1168.9, 'duration': 10.7}
+{'text': 'education for him for us too because', 'start': 1174.659, 'duration': 8.481}
+{'text': 'he need to study which country make', 'start': 1179.6, 'duration': 5.06}
+{'text': 'cookie first', 'start': 1183.14, 'duration': 5.28}
+{'text': 'where is the wheat they grow whereas you', 'start': 1184.66, 'duration': 8.32}
+{'text': 'garlic we get how they make butter how', 'start': 1188.42, 'duration': 7.62}
+{'text': 'baking soda are working with flowers', 'start': 1192.98, 'duration': 9.0}
+{'text': 'with flower so he need to investigate by', 'start': 1196.04, 'duration': 6.92}
+{'text': 'himself', 'start': 1201.98, 'duration': 5.19}
+{'text': 'so when when he make cookie he need to', 'start': 1202.96, 'duration': 6.88}
+{'text': 'measure everything he learned how to', 'start': 1207.17, 'duration': 5.73}
+{'text': 'measure thing and then after him a', 'start': 1209.84, 'duration': 6.72}
+{'text': 'cookie he need to think about how much', 'start': 1212.9, 'duration': 7.26}
+{'text': 'each cookie cost and how much he can', 'start': 1216.56, 'duration': 7.8}
+{'text': 'sell how much he can make profit so he', 'start': 1220.16, 'duration': 8.96}
+{'text': 'can buy later so the whole process is', 'start': 1224.36, 'duration': 8.97}
+{'text': "there's every subject in there so he", 'start': 1229.12, 'duration': 7.84}
+{'text': 'learned very quick not really long after', 'start': 1233.33, 'duration': 5.52}
+{'text': 'him a cookie he just sell cookie in the', 'start': 1236.96, 'duration': 4.65}
+{'text': 'farm people come he sell cookie and not', 'start': 1238.85, 'duration': 7.13}
+{'text': 'be long he get money to buy Lego', 'start': 1241.61, 'duration': 7.59}
+{'text': "so that's the first lesson for him and", 'start': 1245.98, 'duration': 7.57}
+{'text': 'after that he start to learn to do more', 'start': 1249.2, 'duration': 7.13}
+{'text': 'thing everything he learned always', 'start': 1253.55, 'duration': 6.92}
+{'text': 'create income for himself so we not', 'start': 1256.33, 'duration': 7.84}
+{'text': 'intervenes with his income he manage his', 'start': 1260.47, 'duration': 7.57}
+{'text': "own money but he don't want to keep", 'start': 1264.17, 'duration': 6.36}
+{'text': 'money he keep it with me so he can write', 'start': 1268.04, 'duration': 6.06}
+{'text': 'it down how much they keep it me so next', 'start': 1270.53, 'duration': 7.02}
+{'text': 'time if he want cell phone how much do', 'start': 1274.1, 'duration': 5.13}
+{'text': 'you want how much is the cause of cell', 'start': 1277.55, 'duration': 2.88}
+{'text': 'phone you need to research for that', 'start': 1279.23, 'duration': 3.33}
+{'text': 'thing which variety which guy do you', 'start': 1280.43, 'duration': 4.71}
+{'text': 'want which company he did a search and', 'start': 1282.56, 'duration': 4.95}
+{'text': 'then he came to me that I want this cell', 'start': 1285.14, 'duration': 6.15}
+{'text': 'phone it cost him this much euro so oh', 'start': 1287.51, 'duration': 7.11}
+{'text': 'you have in our money you can buy him so', 'start': 1291.29, 'duration': 7.94}
+{'text': 'that what happened so far', 'start': 1294.62, 'duration': 8.49}
+{'text': "now he's 14 years he never asked money", 'start': 1299.23, 'duration': 8.47}
+{'text': 'from parents so this technique I feel', 'start': 1303.11, 'duration': 7.97}
+{'text': 'like I feel really relaxed', 'start': 1307.7, 'duration': 7.46}
+{'text': 'that my son can help himself even he did', 'start': 1311.08, 'duration': 6.78}
+{'text': 'not go to school at all even I died', 'start': 1315.16, 'duration': 6.96}
+{'text': "today I don't feel worried about him he", 'start': 1317.86, 'duration': 6.69}
+{'text': 'can help himself he know how to cook he', 'start': 1322.12, 'duration': 4.62}
+{'text': 'know how to do me anything he know how', 'start': 1324.55, 'duration': 6.33}
+{'text': "to make income for himself so that's", 'start': 1326.74, 'duration': 9.18}
+{'text': "that's very good experience for me", 'start': 1330.88, 'duration': 10.58}
+{'text': 'that we experiment this thing and then', 'start': 1335.92, 'duration': 5.54}
+{'text': 'sometime people always ask us you do', 'start': 1342.51, 'duration': 9.1}
+{'text': "homeschooling you think it's good for", 'start': 1348.12, 'duration': 6.73}
+{'text': "your kid your kid's gonna have enough", 'start': 1351.61, 'duration': 7.83}
+{'text': 'social life your kid gonna catch up with', 'start': 1354.85, 'duration': 8.64}
+{'text': 'another kid in the same age because', 'start': 1359.44, 'duration': 5.79}
+{'text': "you're not teacher I did not finish", 'start': 1363.49, 'duration': 6.48}
+{'text': 'University we are not teacher but I', 'start': 1365.23, 'duration': 6.93}
+{'text': 'think who are not teacher is the best', 'start': 1369.97, 'duration': 5.88}
+{'text': 'teacher because teacher is the person', 'start': 1372.16, 'duration': 5.37}
+{'text': 'who did not do much in their life that', 'start': 1375.85, 'duration': 4.83}
+{'text': 'is reading but who are not teacher who', 'start': 1377.53, 'duration': 4.77}
+{'text': 'do so many thing like a farmer is the', 'start': 1380.68, 'duration': 4.5}
+{'text': 'best teacher because they have so much', 'start': 1382.3, 'duration': 6.26}
+{'text': 'knowledge in their life they know that', 'start': 1385.18, 'duration': 6.06}
+{'text': "soy didn't know the water they know the", 'start': 1388.56, 'duration': 4.78}
+{'text': 'plan they know everything they know how', 'start': 1391.24, 'duration': 4.74}
+{'text': 'to cook I know how to make tools but', 'start': 1393.34, 'duration': 4.5}
+{'text': 'teacher have only information but no', 'start': 1395.98, 'duration': 7.32}
+{'text': "experience no skill so I I don't feel", 'start': 1397.84, 'duration': 7.53}
+{'text': 'worried about what they said to me that', 'start': 1403.3, 'duration': 4.62}
+{'text': "you don't have experience about teaching", 'start': 1405.37, 'duration': 5.61}
+{'text': 'how can you teach your kid and then they', 'start': 1407.92, 'duration': 7.5}
+{'text': 'worry about social life but home school', 'start': 1410.98, 'duration': 9.48}
+{'text': 'kids in my tau in my city we have about', 'start': 1415.42, 'duration': 9.15}
+{'text': '100 family who do homeschool we get the', 'start': 1420.46, 'duration': 7.86}
+{'text': 'kid together often I observe all of them', 'start': 1424.57, 'duration': 6.21}
+{'text': 'none of them have problem with social', 'start': 1428.32, 'duration': 5.58}
+{'text': 'life but the kid who go to school always', 'start': 1430.78, 'duration': 7.59}
+{'text': 'have social life problem because they', 'start': 1433.9, 'duration': 9.06}
+{'text': 'have very narrow wolf they live in a', 'start': 1438.37, 'duration': 5.929}
+{'text': 'small room', 'start': 1442.96, 'duration': 3.889}
+{'text': 'in the classroom 30 people stay together', 'start': 1444.299, 'duration': 5.82}
+{'text': 'there no only 30 kids in a room and come', 'start': 1446.849, 'duration': 7.08}
+{'text': 'back home they see only parents and they', 'start': 1450.119, 'duration': 5.13}
+{'text': "do direct they don't like their parents", 'start': 1453.929, 'duration': 3.42}
+{'text': 'much they just go to the room and close', 'start': 1455.249, 'duration': 4.831}
+{'text': 'the door and then they spend a lot of', 'start': 1457.349, 'duration': 5.4}
+{'text': 'time with computer when they go to', 'start': 1460.08, 'duration': 5.839}
+{'text': 'school they just spend a lot of time', 'start': 1462.749, 'duration': 6.571}
+{'text': "with cell phone they don't talk together", 'start': 1465.919, 'duration': 6.37}
+{'text': "much so when they see people it's very", 'start': 1469.32, 'duration': 4.909}
+{'text': 'hard for them to communicate with people', 'start': 1472.289, 'duration': 4.8}
+{'text': 'so I feel like the kid to go to school', 'start': 1474.229, 'duration': 5.471}
+{'text': 'have so much problem they have a feel', 'start': 1477.089, 'duration': 7.5}
+{'text': 'frame and in they have a lot of pressure', 'start': 1479.7, 'duration': 9.24}
+{'text': 'a lot of tension in their life I noticed', 'start': 1484.589, 'duration': 8.43}
+{'text': 'that why the kids have to become drug', 'start': 1488.94, 'duration': 6.839}
+{'text': 'addicts so much because of the cool the', 'start': 1493.019, 'duration': 6.02}
+{'text': 'school make them have to be like that', 'start': 1495.779, 'duration': 7.95}
+{'text': 'why they have to be like a gang have', 'start': 1499.039, 'duration': 7.6}
+{'text': 'caused a lot of problem because of their', 'start': 1503.729, 'duration': 6.36}
+{'text': 'life has no freedom and no love they', 'start': 1506.639, 'duration': 5.46}
+{'text': 'were oppressed all the time from the', 'start': 1510.089, 'duration': 4.351}
+{'text': "house from the school they don't like to", 'start': 1512.099, 'duration': 3.75}
+{'text': 'learn this subject but they need to', 'start': 1514.44, 'duration': 3.029}
+{'text': 'learn they want to play it but they', 'start': 1515.849, 'duration': 4.53}
+{'text': "don't have time to play a lot of", 'start': 1517.469, 'duration': 7.221}
+{'text': 'pressure so what they can do is revolt', 'start': 1520.379, 'duration': 8.79}
+{'text': 'do whatever just to make parents or', 'start': 1524.69, 'duration': 8.679}
+{'text': 'other people feel upset or unhappy so', 'start': 1529.169, 'duration': 7.05}
+{'text': "that's why the check grants they", 'start': 1533.369, 'duration': 6.9}
+{'text': 'advocate to game but homeschool', 'start': 1536.219, 'duration': 7.231}
+{'text': 'homeschool kid nobody addicts you cream', 'start': 1540.269, 'duration': 6.44}
+{'text': "to game they play game they're not", 'start': 1543.45, 'duration': 6.809}
+{'text': 'addicted to it they have fun because', 'start': 1546.709, 'duration': 5.59}
+{'text': 'there are so many fun thing in the world', 'start': 1550.259, 'duration': 4.941}
+{'text': 'why we need to play game is so boring', 'start': 1552.299, 'duration': 5.73}
+{'text': 'game is fun for people who have a hard', 'start': 1555.2, 'duration': 11.139}
+{'text': 'life a bad life so homeschool kid we', 'start': 1558.029, 'duration': 10.68}
+{'text': 'have no problem with social life because', 'start': 1566.339, 'duration': 6.81}
+{'text': 'we have a lot of time today they may go', 'start': 1568.709, 'duration': 8.491}
+{'text': 'to the ocean to dive in this ocean to', 'start': 1573.149, 'duration': 5.221}
+{'text': "see what's under", 'start': 1577.2, 'duration': 4.14}
+{'text': 'the sea is more fondant game someday', 'start': 1578.37, 'duration': 5.37}
+{'text': 'they go to the mountain hiking someday', 'start': 1581.34, 'duration': 7.92}
+{'text': 'they go to see the star what the name of', 'start': 1583.74, 'duration': 8.94}
+{'text': 'the star decease of anything grafting', 'start': 1589.26, 'duration': 5.88}
+{'text': 'planting feeding anymore', 'start': 1592.68, 'duration': 5.28}
+{'text': "there's so many fun thing to do outside", 'start': 1595.14, 'duration': 5.85}
+{'text': "of school that's why I feel like a", 'start': 1597.96, 'duration': 8.67}
+{'text': 'school we need to have less grass loom', 'start': 1600.99, 'duration': 9.36}
+{'text': 'as fee as much as we can need to go out', 'start': 1606.63, 'duration': 7.89}
+{'text': 'more and in the main idea of learning is', 'start': 1610.35, 'duration': 7.98}
+{'text': 'the main the most important of education', 'start': 1614.52, 'duration': 7.05}
+{'text': 'is freedom and love whenever you have', 'start': 1618.33, 'duration': 6.36}
+{'text': 'freedom you learn a lot whenever you', 'start': 1621.57, 'duration': 5.43}
+{'text': 'love you feel like a somebody love you', 'start': 1624.69, 'duration': 4.14}
+{'text': "you don't need to worry about anything", 'start': 1627.0, 'duration': 7.07}
+{'text': 'you learn a lot so we try this', 'start': 1628.83, 'duration': 8.82}
+{'text': "experiment it's for 14 years until now I", 'start': 1634.07, 'duration': 7.0}
+{'text': 'feel so happy that we try this thing', 'start': 1637.65, 'duration': 6.09}
+{'text': "we're so lucky that we did not send our", 'start': 1641.07, 'duration': 7.08}
+{'text': 'kid to the school now my son want to', 'start': 1643.74, 'duration': 7.62}
+{'text': 'experiment to be in the school so we', 'start': 1648.15, 'duration': 7.41}
+{'text': 'took him to Coronado he went to talk', 'start': 1651.36, 'duration': 7.23}
+{'text': "with the teacher normally he's in grade", 'start': 1655.56, 'duration': 5.91}
+{'text': '8 now but after talking with the teacher', 'start': 1658.59, 'duration': 5.31}
+{'text': 'the teacher said he had to be in grade 9', 'start': 1661.47, 'duration': 4.47}
+{'text': "he should not be in grade 8 because he's", 'start': 1663.9, 'duration': 6.03}
+{'text': 'too far from other kid so every subject', 'start': 1665.94, 'duration': 7.29}
+{'text': 'he worked well even he never please sit', 'start': 1669.93, 'duration': 6.3}
+{'text': 'and read and write like and he never', 'start': 1673.23, 'duration': 5.01}
+{'text': 'learned like a normal kid he learned', 'start': 1676.23, 'duration': 7.85}
+{'text': 'from practice practical experience so', 'start': 1678.24, 'duration': 10.82}
+{'text': "doesn't make me feel like education", 'start': 1684.08, 'duration': 9.45}
+{'text': 'system right now is about memorizing', 'start': 1689.06, 'duration': 7.57}
+{'text': 'when you remember thing is not last very', 'start': 1693.53, 'duration': 9.31}
+{'text': 'long remembering or memorizing make', 'start': 1696.63, 'duration': 8.46}
+{'text': 'people have more fear because you never', 'start': 1702.84, 'duration': 5.13}
+{'text': 'understand it normally understand', 'start': 1705.09, 'duration': 6.58}
+{'text': 'anything from reading and listening you', 'start': 1707.97, 'duration': 6.39}
+{'text': 'remember only you never understand it', 'start': 1711.67, 'duration': 5.33}
+{'text': 'understanding come from experiencing', 'start': 1714.36, 'duration': 8.26}
+{'text': 'fessing for example if I have a water in', 'start': 1717.0, 'duration': 9.37}
+{'text': 'my class I said this class of water is', 'start': 1722.62, 'duration': 7.71}
+{'text': 'very sweet everybody think is water is', 'start': 1726.37, 'duration': 8.66}
+{'text': 'we they remember that but everybody', 'start': 1730.33, 'duration': 7.71}
+{'text': "don't think the same way", 'start': 1735.03, 'duration': 6.04}
+{'text': 'what kind of sweetie it is some people', 'start': 1738.04, 'duration': 5.28}
+{'text': 'maybe think sweet like a sugar sweet', 'start': 1741.07, 'duration': 5.31}
+{'text': 'like a honey sweet like molasses see it', 'start': 1743.32, 'duration': 5.76}
+{'text': 'like a mango different people think', 'start': 1746.38, 'duration': 6.89}
+{'text': 'different way so reading and listening', 'start': 1749.08, 'duration': 9.83}
+{'text': "it's become philosophy it's thinking", 'start': 1753.27, 'duration': 8.44}
+{'text': 'everybody think differently but whenever', 'start': 1758.91, 'duration': 4.93}
+{'text': 'I keep this water to everybody to drink', 'start': 1761.71, 'duration': 5.85}
+{'text': "oh it's sweet like this everybody's feel", 'start': 1763.84, 'duration': 6.36}
+{'text': 'the same thing sweet like this not like', 'start': 1767.56, 'duration': 5.39}
+{'text': 'you can not like honey so this is', 'start': 1770.2, 'duration': 3.9}
+{'text': 'understanding', 'start': 1772.95, 'duration': 4.12}
+{'text': 'wherever you go you see this guy of', 'start': 1774.1, 'duration': 5.79}
+{'text': 'water you know immediately is sweet like', 'start': 1777.07, 'duration': 6.66}
+{'text': "this but when you're listening to me", 'start': 1779.89, 'duration': 6.84}
+{'text': 'without testing it wherever you go you', 'start': 1783.73, 'duration': 6.3}
+{'text': 'still doubt in your mind is it like', 'start': 1786.73, 'duration': 6.42}
+{'text': "sugar it's like honey so this is very", 'start': 1790.03, 'duration': 5.49}
+{'text': 'important thing for us to think about', 'start': 1793.15, 'duration': 5.28}
+{'text': 'education for our kid we want him to', 'start': 1795.52, 'duration': 5.85}
+{'text': "understand we don't want him to remember", 'start': 1798.43, 'duration': 5.94}
+{'text': 'a lot of information because we have a', 'start': 1801.37, 'duration': 4.59}
+{'text': 'lot of computer in the world right now', 'start': 1804.37, 'duration': 3.81}
+{'text': 'why do we need to remember a lot of', 'start': 1805.96, 'duration': 5.25}
+{'text': 'information we need more space in our', 'start': 1808.18, 'duration': 7.2}
+{'text': 'brain to think to imagination to have', 'start': 1811.21, 'duration': 7.56}
+{'text': 'more imagination but if our brain full', 'start': 1815.38, 'duration': 7.31}
+{'text': 'of information no space to thing so', 'start': 1818.77, 'duration': 7.77}
+{'text': "that's the idea of Education that I", 'start': 1822.69, 'duration': 7.54}
+{'text': 'believe in right now and in I feel like', 'start': 1826.54, 'duration': 9.21}
+{'text': "a to do education for my son it's the", 'start': 1830.23, 'duration': 9.15}
+{'text': 'best gift in my life my son is like my', 'start': 1835.75, 'duration': 8.64}
+{'text': 'teacher because he taught me a lot', 'start': 1839.38, 'duration': 7.65}
+{'text': 'he made me open my mind he made me', 'start': 1844.39, 'duration': 6.63}
+{'text': 'listen to people more he make me listen', 'start': 1847.03, 'duration': 8.73}
+{'text': 'to him I can borrow to my son as a great', 'start': 1851.02, 'duration': 8.58}
+{'text': 'teacher in my life he made me understand', 'start': 1855.76, 'duration': 7.44}
+{'text': 'myself more and more and more so my son', 'start': 1859.6, 'duration': 6.97}
+{'text': 'is my great teacher thank you', 'start': 1863.2, 'duration': 17.019}
+{'text': '[Applause]', 'start': 1866.57, 'duration': 13.649}

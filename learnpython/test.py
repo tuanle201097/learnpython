@@ -29,11 +29,22 @@ for transcript in transcript_list:
         # translated to
         transcript.translation_languages,
     )
+    # fetch the actual transcript data
+    print(transcript.fetch())
+ 
+    # translating the transcript will return another
+    # transcript object
+    print(transcript.translate('vi').fetch())
+    vietnam = transcript.translate('vi').fetch()
+    with open("subtitles_vn.txt", "w",encoding="utf-8") as f:
+        for i in vietnam:
+            # writing each element of srt on a new line
+            f.write("{}\n".format(i))
 # creating or overwriting a file "subtitles.txt" with 
 # the info inside the context manager
 with open("subtitles.txt", "w",encoding="utf-8") as f:
 
-		# iterating through each element of list srt
-	for i in srt:
-		# writing each element of srt on a new line
-		f.write("{}\n".format(i))
+        # iterating through each element of list srt
+    for i in srt:
+        # writing each element of srt on a new line
+        f.write("{}\n".format(i))

@@ -1,0 +1,511 @@
+{'text': 'Oscar thân yêu, chiếc xe tải của chúng tôi được rồi và bây giờ', 'start': 0.06, 'duration': 12.3}
+{'text': 'John John sẽ nói chuyện với chúng ta và -', 'start': 7.34, 'duration': 7.54}
+{'text': 'chúng ta sẽ dừng lại cho đến 4:00 và chúng ta sẽ quay', 'start': 12.36, 'duration': 5.04}
+{'text': 'lại từ 4:00 đến 6:00, thật vinh dự', 'start': 14.88, 'duration': 4.47}
+{'text': 'khi John John đã qua đời một lần nữa  Trên sân khấu', 'start': 17.4, 'duration': 13.68}
+{'text': 'chào buổi chiều mọi người vì vậy hôm nay', 'start': 19.35, 'duration': 15.95}
+{'text': 'tôi có thể trình chiếu một số vị trí của tôi', 'start': 31.08, 'duration': 9.15}
+{'text': 'đằng sau màn hình tại sao tôi lại nói chuyện để bạn', 'start': 35.3, 'duration': 7.96}
+{'text': 'có thể tưởng tượng nó trông như thế nào nhưng', 'start': 40.23, 'duration': 5.88}
+{'text': 'trình chiếu này đã có từ nhiều năm trước', 'start': 43.26, 'duration': 5.91}
+{'text': 'và trong bức ảnh này không phải từ tôi', 'start': 46.11, 'duration': 6.089}
+{'text': 'trang trại nó giống như một bức tranh về ngôi nhà Adobe', 'start': 49.17, 'duration': 5.549}
+{'text': 'ở Taos Pueblo, đó là ngôi nhà adobe đầu tiên', 'start': 52.199, 'duration': 7.25}
+{'text': 'tôi thấy trong đời nên', 'start': 54.719, 'duration': 9.541}
+{'text': 'hôm nay tôi sẽ nói về giáo dục ừm', 'start': 59.449, 'duration': 7.871}
+{'text': 'Tôi không có nhiều kinh nghiệm về', 'start': 64.26, 'duration': 6.99}
+{'text': 'giáo dục nhưng tôi sẽ chia sẻ kinh nghiệm của mình', 'start': 67.32, 'duration': 6.869}
+{'text': 'Tôi không,', 'start': 71.25, 'duration': 5.159}
+{'text': 'trước đây tôi không quan tâm đến giáo dục cho đến một ngày vợ tôi nói với tôi', 'start': 76.409, 'duration': 7.951}
+{'text': 'rằng cô ấy đang mang thai nên đây là lần đầu tiên', 'start': 80.67, 'duration': 6.71}
+{'text': 'tôi cần nghĩ đến giáo dục', 'start': 84.36, 'duration': 6.03}
+{'text': 'trước đó. Tôi chỉ là tôi không muốn', 'start': 87.38, 'duration': 5.44}
+{'text': 'liên quan đến giáo dục. Tôi không muốn', 'start': 90.39, 'duration': 6.32}
+{'text': 'ở bên trẻ con nhiều, tôi cảm thấy như vậy', 'start': 92.82, 'duration': 9.18}
+{'text': 'nhưng khi vợ tôi nói với tôi rằng', 'start': 96.71, 'duration': 7.51}
+{'text': 'cô ấy đang mang thai, tôi nói hãy nhìn những người', 'start': 102.0, 'duration': 7.909}
+{'text': 'ở gần tôi. Tôi thấy nhiều đứa trẻ rất khác', 'start': 104.22, 'duration': 8.55}
+{'text': 'một số đứa trẻ rất nghịch ngợm một số đứa trẻ rất', 'start': 109.909, 'duration': 8.1}
+{'text': 'hay bắt nạt và sau đó tôi bắt đầu quan sát nó', 'start': 112.77, 'duration': 8.19}
+{'text': 'nhiều đứa trẻ chúng có vấn đề khi bạn', 'start': 118.009, 'duration': 6.491}
+{'text': 'nhìn vào cha mẹ chúng bạn có thể bắt đầu', 'start': 120.96, 'duration': 8.189}
+{'text': 'thấy rằng cha mẹ chúng có vấn đề', 'start': 124.5, 'duration': 7.11}
+{'text': 'những đứa trẻ không có vấn đề gì cha mẹ chúng', 'start': 129.149, 'duration': 4.891}
+{'text': 'không có vấn đề gì nên đứa trẻ giống như một', 'start': 131.61, 'duration': 6.329}
+{'text': 'tấm gương khiến tôi nghĩ về việc làm thế nào tôi có thể', 'start': 134.04, 'duration': 8.97}
+{'text': 'giáo dục con mình như thế nào  tôi có thể làm gì không Tôi muốn', 'start': 137.939, 'duration': 10.83}
+{'text': 'con tôi trở thành cái gì vậy chủ yếu là đứa trẻ có', 'start': 143.01, 'duration': 11.94}
+{'text': 'vấn đề cha mẹ luôn không ổn định', 'start': 148.769, 'duration': 9.36}
+{'text': 'không nổi lên cảm xúc không ổn định', 'start': 154.95, 'duration': 5.61}
+{'text': 'giống như họ sử dụng nhiều', 'start': 158.129, 'duration': 6.72}
+{'text': 'thứ tình cảm cùng nhau nên bọn trẻ', 'start': 160.56, 'duration': 8.539}
+{'text': 'luôn gặp vấn đề nên tôi bắt đầu', 'start': 164.849, 'duration': 7.911}
+{'text': 'quan sát  rằng những đứa trẻ không bao giờ có vấn đề', 'start': 169.099, 'duration': 8.86}
+{'text': 'chỉ có lẽ chỉ có cha mẹ mới có vấn đề nhưng', 'start': 172.76, 'duration': 8.41}
+{'text': 'chúng tôi luôn đổ lỗi cho bọn trẻ những đứa trẻ không ngoan', 'start': 177.959, 'duration': 7.65}
+{'text': 'những đứa trẻ có vấn đề nên tôi đã nói chuyện với', 'start': 181.17, 'duration': 7.8}
+{'text': 'vợ tôi rằng chúng ta có thể làm điều này như thế nào nên chúng tôi nghĩ', 'start': 185.609, 'duration': 9.99}
+{'text': 'về việc bạn dự định sẽ không sử dụng', 'start': 188.97, 'duration': 13.889}
+{'text': 'cảm xúc mạnh mẽ cùng nhau  chúng tôi bắt đầu từ khi cô ấy mang', 'start': 195.599, 'duration': 9.6}
+{'text': 'thai, chúng tôi sẽ không làm bất cứ điều gì', 'start': 202.859, 'duration': 7.321}
+{'text': 'có tranh cãi bất bạo động trong', 'start': 205.199, 'duration': 10.41}
+{'text': 'gia đình. Chúng tôi đã bắt đầu vì vậy tôi thấy điều đó rất tốt', 'start': 210.18, 'duration': 8.089}
+{'text': 'cho tôi vì đó là cách tôi học', 'start': 215.609, 'duration': 9.141}
+{'text': 'cách không sử dụng cảm xúc mạnh mẽ', 'start': 218.269, 'duration': 12.071}
+{'text': 'học cách cố gắng lắng nghe  cố gắng', 'start': 224.75, 'duration': 10.229}
+{'text': 'sử dụng ý thức nhiều hơn là sử dụng cảm xúc', 'start': 230.34, 'duration': 9.5}
+{'text': 'bất cứ điều gì tôi không thích tôi chỉ mang theo thôi, hãy', 'start': 234.979, 'duration': 12.641}
+{'text': 'nhìn vào sự bùng nổ của vợ tôi nhìn', 'start': 239.84, 'duration': 9.94}
+{'text': 'vào sự bùng nổ đó và rồi nó nhắc nhở tôi ồ', 'start': 247.62, 'duration': 5.609}
+{'text': 'và tại sao cần phải sai lầm tại sao tôi phải', 'start': 249.78, 'duration': 6.569}
+{'text': 'tức giận với điều này  nên nó giúp tôi', 'start': 253.229, 'duration': 7.951}
+{'text': 'quay lại phòng giam nhiều hơn để thắc mắc', 'start': 256.349, 'duration': 6.781}
+{'text': 'thêm tại sao tôi lại phải giận', 'start': 261.18, 'duration': 5.97}
+{'text': 'anh ta khi tôi điều tra sâu và một', 'start': 263.13, 'duration': 7.02}
+{'text': 'vụ tai nạn ồ vì tôi không hiểu', 'start': 267.15, 'duration': 5.88}
+{'text': 'khi tôi hiểu nó tôi không thể tức giận', 'start': 270.15, 'duration': 6.12}
+{'text': 'với nó hoặc đôi khi tôi  thấy ồ vì cô ấy', 'start': 273.03, 'duration': 4.95}
+{'text': 'không hiểu nên cô ấy không', 'start': 276.27, 'duration': 3.93}
+{'text': 'hiểu nên tôi không có lý do gì để', 'start': 277.98, 'duration': 7.11}
+{'text': 'giận cô ấy nên sau khi chúng tôi biết', 'start': 280.2, 'duration': 8.48}
+{'text': 'mình có thai, vợ tôi đang mang thai,', 'start': 285.09, 'duration': 7.25}
+{'text': 'đó là một cách tốt để chúng tôi không', 'start': 288.68, 'duration': 7.96}
+{'text': 'tức giận nên gia đình chúng tôi rất vui.  Sau', 'start': 292.34, 'duration': 10.33}
+{'text': 'đó thì tốt quá nên tôi nghĩ con trai tôi giống như', 'start': 296.64, 'duration': 11.49}
+{'text': 'giáo viên của tôi sau đó và khi', 'start': 302.67, 'duration': 9.77}
+{'text': 'vợ tôi chuyển dạ, chúng tôi bắt đầu nghĩ về việc làm', 'start': 308.13, 'duration': 9.93}
+{'text': 'cách nào để có thể giáo dục con trai mình vì ở', 'start': 312.44, 'duration': 9.43}
+{'text': 'Thái Lan khá tốn kém để cho con', 'start': 318.06, 'duration': 8.34}
+{'text': 'đi học và tôi bắt đầu thấy', 'start': 321.87, 'duration': 7.65}
+{'text': 'hệ thống giáo dục ở đất nước tôi là một', 'start': 326.4, 'duration': 8.43}
+{'text': 'hệ thống rất tàn phá. Tôi cảm thấy như một', 'start': 329.52, 'duration': 9.84}
+{'text': 'hệ thống giáo dục đang hủy hoại cuộc sống của nhiều người', 'start': 334.83, 'duration': 12.3}
+{'text': 'và hủy hoại đất nước vì tôi thấy nhiều', 'start': 339.36, 'duration': 12.27}
+{'text': 'gia đình nghèo nhưng vẫn cố gắng', 'start': 347.13, 'duration': 7.44}
+{'text': 'làm việc rất chăm chỉ và dùng hết tiền', 'start': 351.63, 'duration': 5.55}
+{'text': 'để gửi con đến một trường đại học.  trường học để có được một', 'start': 354.57, 'duration': 8.58}
+{'text': 'nền giáo dục trong nhiều năm họ chi', 'start': 357.18, 'duration': 9.12}
+{'text': 'tiền cho giáo dục họ làm việc chăm chỉ trong', 'start': 363.15, 'duration': 6.09}
+{'text': 'nhiều năm nhưng sau khi đứa trẻ học xong', 'start': 366.3, 'duration': 7.04}
+{'text': 'Đại học, đứa trẻ đó không thể làm được gì', 'start': 369.24, 'duration': 6.9}
+{'text': 'nên chúng tôi chi rất nhiều tiền để huấn luyện', 'start': 373.34, 'duration': 8.62}
+{'text': 'con mình thành người khuyết tật nên đó là', 'start': 376.14, 'duration': 9.33}
+{'text': 'khoảng thời gian rất yên tĩnh  và tiền nên nếu họ', 'start': 381.96, 'duration': 6.59}
+{'text': 'không có con, họ có thể dùng tiền để', 'start': 385.47, 'duration': 5.73}
+{'text': 'phát triển bản thân. Họ có thể có một', 'start': 388.55, 'duration': 5.55}
+{'text': 'cuộc sống tốt đẹp hơn nên tôi nghĩ', 'start': 391.2, 'duration': 5.61}
+{'text': 'giáo dục sẽ', 'start': 394.1, 'duration': 11.71}
+{'text': 'giết chết rất nhiều người quan tâm đến tương lai của chúng tôi nên', 'start': 396.81, 'duration': 10.59}
+{'text': 'tôi nghĩ tôi không muốn gửi con mình  đến', 'start': 405.81, 'duration': 6.06}
+{'text': 'trường, làm cách nào tôi có thể thiết kế chương trình giáo dục', 'start': 407.4, 'duration': 7.74}
+{'text': 'cho con tôi để cháu có thể trở thành những người bình thường,', 'start': 411.87, 'duration': 7.44}
+{'text': 'có thể tự giúp mình nhiều hơn và sau đó cháu', 'start': 415.14, 'duration': 7.23}
+{'text': 'sẽ không trở thành gánh nặng cho bất kỳ ai vì', 'start': 419.31, 'duration': 6.53}
+{'text': 'trong văn hóa Thái Lan, chúng tôi có văn hóa rằng', 'start': 422.37, 'duration': 5.61}
+{'text': 'cha mẹ cần phải chăm sóc trẻ', 'start': 425.84, 'duration': 5.28}
+{'text': 'mọi thứ  ngay cả khi họ lớn lên, cha mẹ đã kết hôn cũng', 'start': 427.98, 'duration': 7.77}
+{'text': 'phải chăm sóc con cái nên', 'start': 431.12, 'duration': 8.11}
+{'text': 'đó là một gánh nặng lớn cho đến khi họ chết vậy làm sao', 'start': 435.75, 'duration': 5.79}
+{'text': 'chúng ta có thể không, chúng ta không muốn như', 'start': 439.23, 'duration': 5.37}
+{'text': 'vậy, làm sao chúng ta có thể tránh được điều đó nên chúng ta nghĩ', 'start': 441.54, 'duration': 5.52}
+{'text': 'đến việc chúng ta muốn thiết kế  cách', 'start': 444.6, 'duration': 7.11}
+{'text': 'giáo dục mới và sau đó chúng tôi nhận thấy rằng đứa', 'start': 447.06, 'duration': 7.08}
+{'text': 'trẻ có vấn đề là những đứa trẻ', 'start': 451.71, 'duration': 5.28}
+{'text': 'lớn lên trong một gia đình không có tình yêu thương, không có', 'start': 454.14, 'duration': 8.7}
+{'text': 'tự do bởi vì một số bậc cha mẹ', 'start': 456.99, 'duration': 8.1}
+{'text': 'yêu con mình, họ cố gắng dành những', 'start': 462.84, 'duration': 3.68}
+{'text': 'điều tốt nhất cho đứa trẻ', 'start': 465.09, 'duration': 6.57}
+{'text': 'nhưng điều đó lại bảo vệ quá mức  kiểu như ồ bạn', 'start': 466.52, 'duration': 7.3}
+{'text': 'bỏ thuốc độc vào con bạn, đứa trẻ không thể làm', 'start': 471.66, 'duration': 7.35}
+{'text': 'được gì nên khi nghĩ về', 'start': 473.82, 'duration': 8.22}
+{'text': 'giáo dục, chúng ta nghĩ về thời còn', 'start': 479.01, 'duration': 5.79}
+{'text': 'bé Tôi có rất nhiều tự do Tôi', 'start': 482.04, 'duration': 6.33}
+{'text': 'có thể đi bất cứ đâu khi nó còn nhỏ và sau đó', 'start': 484.8, 'duration': 8.64}
+{'text': 'tôi đã học được rất nhiều  thậm chí đó không phải là những gì', 'start': 488.37, 'duration': 6.75}
+{'text': 'người ta dạy ở trường mà là', 'start': 493.44, 'duration': 3.45}
+{'text': 'tất cả những gì tôi học được khi còn bé tôi', 'start': 495.12, 'duration': 4.77}
+{'text': 'sử dụng trong cuộc sống nhưng tất cả những gì tôi học được', 'start': 496.89, 'duration': 9.62}
+{'text': 'ở trường tôi chưa bao giờ sử dụng nên điều đó khiến', 'start': 499.89, 'duration': 10.589}
+{'text': 'gia đình chúng tôi mong muốn được giáo dục nền', 'start': 506.51, 'duration': 7.39}
+{'text': 'giáo dục mới mà chúng tôi nghĩ đến là chúng tôi', 'start': 510.479, 'duration': 7.62}
+{'text': 'đang dạy  ý tưởng là không dạy mà không dạy', 'start': 513.9, 'duration': 8.009}
+{'text': 'vì chúng tôi chỉ cung cấp kỹ thuật', 'start': 518.099, 'duration': 7.681}
+{'text': 'tìm kiếm kiến \u200b\u200bthức nhưng chúng tôi', 'start': 521.909, 'duration': 7.291}
+{'text': 'không dạy kiến \u200b\u200bthức cho đứa trẻ nên', 'start': 525.78, 'duration': 4.5}
+{'text': 'những gì chúng tôi dạy là', 'start': 529.2, 'duration': 4.59}
+{'text': 'ngôn ngữ cách đọc, cách viết và', 'start': 530.28, 'duration': 7.11}
+{'text': 'toán một chút sau khi chúng biết cách', 'start': 533.79, 'duration': 5.31}
+{'text': 'đọc cách viết điều đó có nghĩa là họ có', 'start': 537.39, 'duration': 9.48}
+{'text': 'công cụ để tìm kiếm những gì họ muốn nên', 'start': 539.1, 'duration': 14.04}
+{'text': 'sau đó chúng tôi để họ giải phóng vai trò của tôi', 'start': 546.87, 'duration': 9.06}
+{'text': 'Vai trò của chúng tôi là một giáo viên chúng tôi không cần', 'start': 553.14, 'duration': 6.3}
+{'text': 'dạy giáo viên không cần dạy chúng tôi', 'start': 555.93, 'duration': 7.98}
+{'text': 'chỉ là một người hỗ trợ tốt  chỉ cần giúp đỡ họ', 'start': 559.44, 'duration': 7.04}
+{'text': 'bất cứ điều gì họ cần', 'start': 563.91, 'duration': 5.67}
+{'text': 'đừng cố gắng can thiệp vào quá trình học tập của họ', 'start': 566.48, 'duration': 8.29}
+{'text': 'ở Thái Lan. Chúng tôi gặp rất nhiều', 'start': 569.58, 'duration': 8.61}
+{'text': 'vấn đề trong hầu hết các gia đình. Cha mẹ có một số', 'start': 574.77, 'duration': 6.27}
+{'text': 'ước mơ nhưng họ không thể biến', 'start': 578.19, 'duration': 7.53}
+{'text': 'ước mơ của mình thành hiện thực và sau đó họ đẩy', 'start': 581.04, 'duration': 7.02}
+{'text': 'ước mơ của mình vào con cái họ  họ muốn', 'start': 585.72, 'duration': 5.1}
+{'text': 'con họ làm những gì chúng muốn đó là một', 'start': 588.06, 'duration': 6.18}
+{'text': 'vấn đề lớn ở đất nước ở', 'start': 590.82, 'duration': 7.2}
+{'text': 'đất nước tôi, nó gây ra đau khổ cho cả hai người', 'start': 594.24, 'duration': 6.54}
+{'text': 'thở dài nên bọn trẻ không thích làm bác sĩ', 'start': 598.02, 'duration': 6.9}
+{'text': 'nhưng bố mẹ lại muốn trở thành bác sĩ nên', 'start': 600.78, 'duration': 6.84}
+{'text': 'đứa con nuôi của họ phải học  làm bác sĩ những', 'start': 604.92, 'duration': 5.25}
+{'text': 'đứa trẻ mất hơn 20 năm để', 'start': 607.62, 'duration': 4.71}
+{'text': 'học làm bác sĩ sau khi học xong', 'start': 610.17, 'duration': 5.79}
+{'text': 'bác sĩ anh ấy không muốn làm bác sĩ nên', 'start': 612.33, 'duration': 8.31}
+{'text': 'anh ấy trở thành nhạc sĩ nên anh ấy hao mòn', 'start': 615.96, 'duration': 8.22}
+{'text': 'thời gian hơn 20 năm và bố mẹ', 'start': 620.64, 'duration': 7.41}
+{'text': 'buồn bã còn tôi thì', 'start': 624.18, 'duration': 6.18}
+{'text': 'không ai cả  được hưởng lợi từ điều đó nhưng', 'start': 628.05, 'duration': 7.5}
+{'text': 'không ai học được từ bài học này nên chúng ta', 'start': 630.36, 'duration': 8.43}
+{'text': 'nói chuyện cùng nhau chúng ta sẽ không can thiệp vào giấc mơ của', 'start': 635.55, 'duration': 7.92}
+{'text': 'con trai chúng ta nó có thể mơ nó có thể làm', 'start': 638.79, 'duration': 10.11}
+{'text': 'bất cứ điều gì nó muốn bạn nên chúng ta không', 'start': 643.47, 'duration': 9.6}
+{'text': 'chọn nó mà chúng ta để nó tìm kiếm những gì', 'start': 648.9, 'duration': 8.01}
+{'text': 'nó muốn biết 4  tuổi anh ấy nói với bố', 'start': 653.07, 'duration': 8.99}
+{'text': 'Tôi muốn bán cả hai trên khắp thế giới', 'start': 656.91, 'duration': 8.87}
+{'text': 'Tôi đã nói chuyện với bạn tôi rồi Tôi sẽ', 'start': 662.06, 'duration': 7.5}
+{'text': 'là thuyền trưởng Tôi sẽ là cướp biển anh ấy nói', 'start': 665.78, 'duration': 8.7}
+{'text': 'bạn của tôi sẽ là thuyền trưởng Tôi nói', 'start': 669.56, 'duration': 10.02}
+{'text': 'đó là một ý tưởng hay đó là một ý tưởng tuyệt vời thật', 'start': 674.48, 'duration': 6.99}
+{'text': 'thú vị nếu bạn đi du lịch  rất nhiều thứ bằng', 'start': 679.58, 'duration': 6.09}
+{'text': 'thuyền buồm nhưng Jen đã làm gì bố', 'start': 681.47, 'duration': 6.72}
+{'text': 'cần biết điều gì nếu con muốn đi thuyền', 'start': 685.67, 'duration': 5.34}
+{'text': 'quanh thuyền bố đã đi xa một', 'start': 688.19, 'duration': 5.34}
+{'text': 'thời gian dài và bố đã quay lại Con cần la bàn', 'start': 691.01, 'duration': 4.89}
+{'text': 'Con cần đồng hồ', 'start': 693.53, 'duration': 6.66}
+{'text': 'Con cần bản đồ nên con mới có  thứ này đối với', 'start': 695.9, 'duration': 9.63}
+{'text': 'anh ấy không lâu lắm chưa đầy nửa ngày', 'start': 700.19, 'duration': 8.25}
+{'text': 'anh ấy đi đâu đó rồi quay', 'start': 705.53, 'duration': 4.77}
+{'text': 'lại và nói rằng bây giờ tôi biết cách sử dụng la bàn', 'start': 708.44, 'duration': 7.91}
+{'text': 'và không lâu lắm anh ấy biết cách', 'start': 710.3, 'duration': 6.05}
+{'text': 'đọc thời gian trên đồng hồ', 'start': 716.38, 'duration': 7.36}
+{'text': 'và họ  Không lâu lắm anh ấy biết cách', 'start': 720.67, 'duration': 5.2}
+{'text': 'đọc bản đồ bạn biết đường đồng mức là gì', 'start': 723.74, 'duration': 6.78}
+{'text': 'bạn biết độ cao khiến tôi', 'start': 725.87, 'duration': 7.95}
+{'text': 'cảm thấy giáo dục quá dễ dàng bạn', 'start': 730.52, 'duration': 8.13}
+{'text': 'không cần phải làm gì khi mọi người', 'start': 733.82, 'duration': 9.78}
+{'text': 'yêu thích thứ gì đó họ học nó rất nhanh', 'start': 738.65, 'duration': 9.78}
+{'text': 'Tôi  hãy nghĩ về bản thân tôi khi tôi còn là một', 'start': 743.6, 'duration': 8.04}
+{'text': 'sa di Tôi đã xuất gia làm sa di nhưng chúng tôi', 'start': 748.43, 'duration': 6.78}
+{'text': 'bị buộc phải học tiếng Phạn.', 'start': 751.64, 'duration': 5.31}
+{'text': 'Hiện tại trên thế giới không ai nói tiếng Phạn', 'start': 755.21, 'duration': 3.59}
+{'text': 'nhưng ở đất nước Phật giáo chúng ta cần học tiếng', 'start': 758.8, 'duration': 7.0}
+{'text': 'Phạn. Tôi đã dành hai năm để thực hành', 'start': 761.63, 'duration': 6.9}
+{'text': 'viết và đọc tiếng Phạn và sau đó  Tôi', 'start': 765.8, 'duration': 6.44}
+{'text': 'có thể đọc, tôi có thể viết nhưng sau hai năm', 'start': 768.53, 'duration': 6.99}
+{'text': 'ba năm sau tôi không sử dụng nó, tôi đã', 'start': 772.24, 'duration': 7.27}
+{'text': 'quên hết nên tôi đã dành rất nhiều', 'start': 775.52, 'duration': 5.97}
+{'text': 'thời gian để làm một việc mà tôi sẽ', 'start': 779.51, 'duration': 6.24}
+{'text': 'không bao giờ sử dụng khiến tôi nghĩ về con trai mình.', 'start': 781.49, 'duration': 8.88}
+{'text': 'rất nhiều vì vậy tôi cảm thấy như bất cứ khi nào bé', 'start': 785.75, 'duration': 6.63}
+{'text': 'yêu thích thứ gì đó, bé sẽ học rất nhanh', 'start': 790.37, 'duration': 5.209}
+{'text': 'và khi đó', 'start': 792.38, 'duration': 5.939}
+{'text': 'bộ não của trẻ rất cởi mở với mọi thứ', 'start': 795.579, 'duration': 5.5}
+{'text': 'chúng sẵn sàng thực hiện mọi thứ nhưng không', 'start': 798.319, 'duration': 5.19}
+{'text': 'cùng lúc nên đó là sai lầm', 'start': 801.079, 'duration': 5.911}
+{'text': 'của chương trình giảng dạy trong hệ thống giáo dục của chúng ta.', 'start': 803.509, 'duration': 5.551}
+{'text': 'chương trình giảng dạy cho chúng chúng tôi muốn', 'start': 806.99, 'duration': 3.45}
+{'text': 'chúng học tám môn', 'start': 809.06, 'duration': 4.459}
+{'text': 'mười môn đó là một sai lầm lớn', 'start': 810.44, 'duration': 5.97}
+{'text': 'vì chúng không thích chúng tôi buộc', 'start': 813.519, 'duration': 7.0}
+{'text': 'chúng phải học chúng không hài lòng với đứa trẻ đầu tiên của chúng tôi', 'start': 816.41, 'duration': 9.779}
+{'text': 'phải chịu đựng từ khi ba tuổi chúng tôi', 'start': 820.519, 'duration': 11.791}
+{'text': 'buộc chúng phải học những gì trẻ cần phải học  vui vẻ', 'start': 826.189, 'duration': 9.031}
+{'text': 'và hạnh phúc họ không cần phải căng thẳng', 'start': 832.31, 'duration': 9.36}
+{'text': 'họ không cần quá bận rộn bận rộn là', 'start': 835.22, 'duration': 9.96}
+{'text': 'những người trưởng thành không biết phải làm gì', 'start': 841.67, 'duration': 5.039}
+{'text': 'với cuộc sống của mình họ chỉ làm cho cuộc sống trở nên', 'start': 845.18, 'duration': 6.0}
+{'text': 'bận rộn nhưng còn trẻ con thì họ muốn dành cả', 'start': 846.709, 'duration': 9.661}
+{'text': 'cuộc đời mình  để học nên', 'start': 851.18, 'duration': 8.159}
+{'text': 'chương trình giảng dạy Caracal mà chúng tôi có hiện nay là một', 'start': 856.37, 'duration': 7.68}
+{'text': 'vấn đề lớn đối với hệ thống giáo dục vì vậy chúng tôi để', 'start': 859.339, 'duration': 10.381}
+{'text': 'con mình học bất cứ điều gì nó muốn, công việc của chúng tôi', 'start': 864.05, 'duration': 9.81}
+{'text': 'chỉ là hỗ trợ nó, chúng tôi không bao giờ', 'start': 869.72, 'duration': 8.0}
+{'text': 'dạy nó nhiều, chúng tôi không dạy nó nhiều', 'start': 873.86, 'duration': 9.779}
+{'text': 'nhưng chúng tôi có thể thấy  sự tiến bộ của cậu ấy rất', 'start': 877.72, 'duration': 9.88}
+{'text': 'khác so với đứa trẻ ở trường bốn', 'start': 883.639, 'duration': 8.94}
+{'text': 'tuổi cậu ấy xuống nước Tôi bảo cậu ấy', 'start': 887.6, 'duration': 7.88}
+{'text': 'bơi cách bơi giải thích cho cậu ấy và', 'start': 892.579, 'duration': 7.651}
+{'text': 'điều khiển cậu ấy trong nước không lâu', 'start': 895.48, 'duration': 7.63}
+{'text': 'cậu ấy chỉ cố gắng vùng vẫy không lâu', 'start': 900.23, 'duration': 9.02}
+{'text': 'cậu ấy có thể bơi được  muốn có một chiếc xe đạp phù hợp. Tôi', 'start': 903.11, 'duration': 10.38}
+{'text': 'nghĩ cậu bé sáu tuổi muốn x12 bởi', 'start': 909.25, 'duration': 8.529}
+{'text': 'vì rất nhiều bạn bè đi xe đạp. Tôi đã cho cậu ấy', 'start': 913.49, 'duration': 6.42}
+{'text': 'lên xe đạp và tôi đã đẩy chiếc xe đạp', 'start': 917.779, 'duration': 6.3}
+{'text': 'xuống dốc không dốc lắm, nhiều người', 'start': 919.91, 'duration': 6.419}
+{'text': 'chỉ cần mua cho cậu ấy một chiếc xe đạp và', 'start': 924.079, 'duration': 4.551}
+{'text': 'sau đó họ có thể  học cách đạp', 'start': 926.329, 'duration': 5.241}
+{'text': 'nhưng khi bạn nhấn thì nó sẽ chạy và', 'start': 928.63, 'duration': 11.67}
+{'text': 'sau đó bé sẽ học nên khi bé tự tin', 'start': 931.57, 'duration': 11.67}
+{'text': 'có thể học cách tự đưa ra quyết định,', 'start': 940.3, 'duration': 5.82}
+{'text': 'bé đã học cách giải quyết', 'start': 943.24, 'duration': 8.13}
+{'text': 'vấn đề rất nhanh nên bé học cách cắn mà', 'start': 946.12, 'duration': 8.61}
+{'text': 'không cần luyện tập gì cả  Một', 'start': 951.37, 'duration': 8.43}
+{'text': 'ngày nọ, anh ấy đi nên đó là một điều tôi', 'start': 954.73, 'duration': 7.44}
+{'text': 'cảm thấy cách', 'start': 959.8, 'duration': 5.49}
+{'text': 'bọn trẻ học thật tuyệt vời nếu chúng ta không can thiệp', 'start': 962.17, 'duration': 8.51}
+{'text': 'nhiều vào quá trình chúng học nhanh', 'start': 965.29, 'duration': 12.63}
+{'text': 'và có một điều là tôi chưa bao giờ mua', 'start': 970.68, 'duration': 10.27}
+{'text': 'đồ chơi cho con trai tôi chỉ bốn tuổi  Nhiều lần trong', 'start': 977.92, 'duration': 8.76}
+{'text': 'đời trước bốn năm,', 'start': 980.95, 'duration': 9.27}
+{'text': 'tôi đã mua một số đồ chơi cho cháu nhưng sau bốn', 'start': 986.68, 'duration': 7.59}
+{'text': 'năm, tôi ngừng mua đồ chơi. Một ngày nọ, tôi đưa cháu đến', 'start': 990.22, 'duration': 7.23}
+{'text': 'thành phố và cháu nhìn thấy cửa hàng đồ chơi,', 'start': 994.27, 'duration': 5.79}
+{'text': 'cháu ở đó có rất nhiều xe tải lớn, rất nhiều', 'start': 997.45, 'duration': 6.33}
+{'text': 'đồ chơi, cháu nói rằng tôi  muốn một chiếc xe tải lớn', 'start': 1000.06, 'duration': 9.78}
+{'text': 'thật đẹp. Tôi nói với anh ấy rằng chiếc xe tải', 'start': 1003.78, 'duration': 10.95}
+{'text': 'sản xuất từ \u200b\u200b\u200b\u200bTrung Quốc rất rẻ,', 'start': 1009.84, 'duration': 7.17}
+{'text': 'nhựa rất rẻ sau khi sử dụng sẽ', 'start': 1014.73, 'duration': 7.26}
+{'text': 'không lâu thậm chí sẽ bị hỏng nên', 'start': 1017.01, 'duration': 8.64}
+{'text': 'sau đó lớn sẽ trở thành bắp cải và', 'start': 1021.99, 'duration': 7.349}
+{'text': 'sau đó anh ấy nói không sao  rằng tôi chỉ muốn một', 'start': 1025.65, 'duration': 7.02}
+{'text': 'cái nhỏ nên tôi đã mua một cái nhỏ cho', 'start': 1029.339, 'duration': 5.971}
+{'text': 'nó, đó là lần cuối cùng tôi mua đồ chơi', 'start': 1032.67, 'duration': 9.81}
+{'text': 'cho nó. Tôi cảm thấy như thể khi chúng tôi giải thích', 'start': 1035.31, 'duration': 9.81}
+{'text': 'mọi việc với nó bằng cách lắng nghe, nó hiểu, lắng', 'start': 1042.48, 'duration': 7.68}
+{'text': 'nghe, chúng tôi không bao giờ sử dụng cảm xúc mạnh mẽ với', 'start': 1045.12, 'duration': 9.54}
+{'text': 'con trai mình nên nó không bao giờ  sử dụng cảm xúc anh ấy', 'start': 1050.16, 'duration': 7.44}
+{'text': 'sử dụng lắng nghe anh ấy sử dụng ý thức nhiều hơn', 'start': 1054.66, 'duration': 6.24}
+{'text': 'để nghĩ rằng anh ấy nghĩ nhiều hơn anh ấy sử dụng ít hơn và', 'start': 1057.6, 'duration': 4.5}
+{'text': 'nhiều hơn để cố gắng', 'start': 1060.9, 'duration': 4.23}
+{'text': 'hiểu tại sao cái chết lại làm bất kỳ', 'start': 1062.1, 'duration': 6.329}
+{'text': 'cái chết nào nên đó là một điều', 'start': 1065.13, 'duration': 5.85}
+{'text': 'trái ngược với niềm tin của tôi trước đây rằng chúng tôi', 'start': 1068.429, 'duration': 4.74}
+{'text': 'nghĩ rằng nụ hôn không biết  bất cứ điều gì chúng ta có thể', 'start': 1070.98, 'duration': 4.97}
+{'text': 'nói dối đứa trẻ', 'start': 1073.169, 'duration': 2.781}
+{'text': 'nhưng thực ra chúng rất thông minh,', 'start': 1076.88, 'duration': 9.33}
+{'text': 'thông minh và có tính nhân văn sau đó là người lớn', 'start': 1079.88, 'duration': 12.37}
+{'text': 'vì tôi nhận thấy rằng nếu bạn nói dối đứa', 'start': 1086.21, 'duration': 10.12}
+{'text': 'trẻ, đứa trẻ bắt đầu nói dối để hỏi bạn rằng chúng', 'start': 1092.25, 'duration': 7.08}
+{'text': 'đang học thì chúng hiểu tâm lý của chúng ta', 'start': 1096.33, 'duration': 6.63}
+{'text': 'rất nhanh chúng biết điều chúng  muốn và', 'start': 1099.33, 'duration': 6.479}
+{'text': 'họ biết cách đạt được điều họ muốn nếu', 'start': 1102.96, 'duration': 4.56}
+{'text': 'họ khóc và họ đạt được điều họ muốn vào', 'start': 1105.809, 'duration': 5.221}
+{'text': 'lần sau họ sẽ khóc nếu Herrin không', 'start': 1107.52, 'duration': 7.159}
+{'text': 'hòa hợp được với nhau họ biết phải', 'start': 1111.03, 'duration': 6.06}
+{'text': 'nói chuyện với ai để đạt được điều họ muốn', 'start': 1114.679, 'duration': 10.0}
+{'text': 'một cách dễ dàng nên họ rất thông minh  vì vậy tôi đã không', 'start': 1117.09, 'duration': 10.469}
+{'text': 'mua đồ chơi cho con tôi sau đó', 'start': 1124.679, 'duration': 8.311}
+{'text': 'vì sau bốn năm, một ngày nọ, nó đến', 'start': 1127.559, 'duration': 8.281}
+{'text': 'và tôi muốn mua một chiếc Lego, nó tốn khá', 'start': 1132.99, 'duration': 7.679}
+{'text': 'nhiều tiền nên tôi nói với nó rằng ôi', 'start': 1135.84, 'duration': 7.8}
+{'text': 'gia đình chúng tôi, chúng tôi không làm việc để kiếm tiền.', 'start': 1140.669, 'duration': 5.49}
+{'text': 'không bao giờ có thu nhập nên điều đó khá', 'start': 1143.64, 'duration': 6.45}
+{'text': 'đắt nhưng nếu bạn muốn thì không sao, làm sao', 'start': 1146.159, 'duration': 8.15}
+{'text': 'chúng ta có thể kiếm tiền nếu bạn muốn có nó,', 'start': 1150.09, 'duration': 6.959}
+{'text': 'bạn có thể đi và nghĩ làm thế nào chúng ta có thể kiếm', 'start': 1154.309, 'duration': 6.071}
+{'text': 'tiền nên anh ấy bỏ đi và đến', 'start': 1157.049, 'duration': 6.391}
+{'text': 'ngồi trong quán cà phê và họ  Không', 'start': 1160.38, 'duration': 4.799}
+{'text': 'lâu lắm anh ấy hỏi anh ấy bạn có thể dạy tôi', 'start': 1163.44, 'duration': 5.46}
+{'text': 'cách làm bánh quy không nên họ dạy anh ấy cách', 'start': 1165.179, 'duration': 9.48}
+{'text': 'làm bánh quy nên làm bánh quy', 'start': 1168.9, 'duration': 10.7}
+{'text': 'cũng là cách giáo dục cho anh ấy đối với chúng tôi vì', 'start': 1174.659, 'duration': 8.481}
+{'text': 'anh ấy cần nghiên cứu xem quốc gia nào làm', 'start': 1179.6, 'duration': 5.06}
+{'text': 'bánh quy trước tiên', 'start': 1183.14, 'duration': 5.28}
+{'text': 'họ lúa mì ở đâu  phát triển trong khi bạn', 'start': 1184.66, 'duration': 8.32}
+{'text': 'tỏi, chúng tôi hiểu cách họ làm bơ cách', 'start': 1188.42, 'duration': 7.62}
+{'text': 'baking soda hoạt động với hoa', 'start': 1192.98, 'duration': 9.0}
+{'text': 'với hoa nên anh ấy cần phải tự mình điều tra', 'start': 1196.04, 'duration': 6.92}
+{'text': 'nên khi làm bánh quy, anh ấy cần', 'start': 1202.96, 'duration': 6.88}
+{'text': 'đo mọi thứ anh ấy đã học cách', 'start': 1207.17, 'duration': 5.73}
+{'text': 'đo mọi thứ và sau đó anh ấy là một chiếc', 'start': 1209.84, 'duration': 6.72}
+{'text': 'bánh quy.  cần suy nghĩ xem', 'start': 1212.9, 'duration': 7.26}
+{'text': 'mỗi chiếc bánh quy có giá bao nhiêu và anh ấy có thể', 'start': 1216.56, 'duration': 7.8}
+{'text': 'bán được bao nhiêu, anh ấy có thể kiếm được bao nhiêu lợi nhuận để có', 'start': 1220.16, 'duration': 8.96}
+{'text': 'thể mua sau này nên toàn bộ quá trình là có', 'start': 1224.36, 'duration': 8.97}
+{'text': 'mọi chủ đề trong đó nên anh ấy', 'start': 1229.12, 'duration': 7.84}
+{'text': 'đã học rất nhanh, không lâu sau', 'start': 1233.33, 'duration': 5.52}
+{'text': 'anh ấy, một chiếc bánh quy mà anh ấy chỉ cần  bán bánh quy ở', 'start': 1236.96, 'duration': 4.65}
+{'text': 'nông trại cho mọi người đến anh ấy bán bánh quy và', 'start': 1238.85, 'duration': 7.13}
+{'text': 'không lâu sau anh ấy sẽ có tiền để mua Lego', 'start': 1241.61, 'duration': 7.59}
+{'text': 'nên đó là bài học đầu tiên cho anh ấy và', 'start': 1245.98, 'duration': 7.57}
+{'text': 'sau đó anh ấy bắt đầu học cách làm nhiều', 'start': 1249.2, 'duration': 7.13}
+{'text': 'thứ hơn mọi thứ anh ấy học được luôn', 'start': 1253.55, 'duration': 6.92}
+{'text': 'tạo thu nhập cho bản thân nên chúng tôi không', 'start': 1256.33, 'duration': 7.84}
+{'text': 'can thiệp  với thu nhập của mình, anh ấy tự quản lý', 'start': 1260.47, 'duration': 7.57}
+{'text': 'tiền của mình nhưng anh ấy không muốn giữ', 'start': 1264.17, 'duration': 6.36}
+{'text': 'tiền, anh ấy giữ nó bên tôi để anh ấy có thể ghi', 'start': 1268.04, 'duration': 6.06}
+{'text': 'lại số tiền họ giữ cho tôi để', 'start': 1270.53, 'duration': 7.02}
+{'text': 'lần sau nếu anh ấy muốn điện thoại di động thì', 'start': 1274.1, 'duration': 5.13}
+{'text': 'bạn muốn bao nhiêu  nguyên nhân của điện thoại di động', 'start': 1277.55, 'duration': 2.88}
+{'text': 'bạn cần nghiên cứu về', 'start': 1279.23, 'duration': 3.33}
+{'text': 'thứ đó loại nào bạn', 'start': 1280.43, 'duration': 4.71}
+{'text': 'muốn anh chàng nào anh ta đã tìm kiếm công ty nào và', 'start': 1282.56, 'duration': 4.95}
+{'text': 'sau đó anh ta nói với tôi rằng tôi muốn chiếc điện thoại di động này,', 'start': 1285.14, 'duration': 6.15}
+{'text': 'anh ta tốn rất nhiều euro nên ồ', 'start': 1287.51, 'duration': 7.11}
+{'text': 'bạn có tiền của chúng tôi  bạn có thể mua nó', 'start': 1291.29, 'duration': 7.94}
+{'text': 'để những gì đã xảy ra cho đến', 'start': 1294.62, 'duration': 8.49}
+{'text': 'nay nó đã 14 tuổi rồi nó chưa bao giờ xin tiền', 'start': 1299.23, 'duration': 8.47}
+{'text': 'bố mẹ nên kỹ thuật này tôi cảm', 'start': 1303.11, 'duration': 7.97}
+{'text': 'thấy tôi cảm thấy thực sự thoải mái', 'start': 1307.7, 'duration': 7.46}
+{'text': 'khi con trai tôi có thể tự giúp mình ngay cả khi nó', 'start': 1311.08, 'duration': 6.78}
+{'text': 'không đi học chút nào ngay cả khi tôi chết', 'start': 1315.16, 'duration': 6.96}
+{'text': 'hôm nay tôi  đừng lo lắng cho anh ấy anh ấy', 'start': 1317.86, 'duration': 6.69}
+{'text': 'có thể tự giúp mình anh ấy biết nấu ăn anh ấy', 'start': 1322.12, 'duration': 4.62}
+{'text': 'biết làm cho tôi bất cứ điều gì anh ấy biết cách', 'start': 1324.55, 'duration': 6.33}
+{'text': 'tự kiếm thu nhập nên đó là một', 'start': 1326.74, 'duration': 9.18}
+{'text': 'trải nghiệm rất tốt đối với tôi', 'start': 1330.88, 'duration': 10.58}
+{'text': 'khi chúng tôi thử nghiệm điều này và', 'start': 1335.92, 'duration': 5.54}
+{'text': 'đôi khi mọi người luôn hỏi  chúng tôi bạn', 'start': 1342.51, 'duration': 9.1}
+{'text': 'dạy học tại nhà bạn nghĩ điều đó tốt cho con bạn', 'start': 1348.12, 'duration': 6.73}
+{'text': 'con bạn sẽ có đủ', 'start': 1351.61, 'duration': 7.83}
+{'text': 'cuộc sống xã hội con bạn sẽ bắt kịp', 'start': 1354.85, 'duration': 8.64}
+{'text': 'một đứa trẻ khác cùng tuổi vì', 'start': 1359.44, 'duration': 5.79}
+{'text': 'bạn không phải là giáo viên Tôi chưa học xong', 'start': 1363.49, 'duration': 6.48}
+{'text': 'Đại học chúng tôi không phải là giáo viên nhưng tôi', 'start': 1365.23, 'duration': 6.93}
+{'text': 'nghĩ ai là ai  không phải giáo viên là', 'start': 1369.97, 'duration': 5.88}
+{'text': 'giáo viên giỏi nhất bởi vì giáo viên là người', 'start': 1372.16, 'duration': 5.37}
+{'text': 'không làm nhiều việc trong đời là', 'start': 1375.85, 'duration': 4.83}
+{'text': 'đọc sách nhưng không phải là giáo viên', 'start': 1377.53, 'duration': 4.77}
+{'text': 'làm rất nhiều việc như một người nông dân mới là', 'start': 1380.68, 'duration': 4.5}
+{'text': 'giáo viên tốt nhất vì họ có rất nhiều', 'start': 1382.3, 'duration': 6.26}
+{'text': 'kiến \u200b\u200b\u200b\u200bthức trong cuộc sống mà họ biết  đậu nành đó', 'start': 1385.18, 'duration': 6.06}
+{'text': 'không biết nước họ biết', 'start': 1388.56, 'duration': 4.78}
+{'text': 'kế hoạch họ biết mọi thứ họ biết', 'start': 1391.24, 'duration': 4.74}
+{'text': 'nấu ăn Tôi biết cách làm dụng cụ nhưng', 'start': 1393.34, 'duration': 4.5}
+{'text': 'giáo viên chỉ có thông tin nhưng không có', 'start': 1395.98, 'duration': 7.32}
+{'text': 'kinh nghiệm không có kỹ năng nên tôi không cảm thấy', 'start': 1397.84, 'duration': 7.53}
+{'text': 'lo lắng về những gì họ nói với tôi điều đó', 'start': 1403.3, 'duration': 4.62}
+{'text': 'bạn không có kinh nghiệm dạy học', 'start': 1405.37, 'duration': 5.61}
+{'text': 'làm sao bạn có thể dạy con bạn và sau đó chúng', 'start': 1407.92, 'duration': 7.5}
+{'text': 'lo lắng về đời sống xã hội nhưng', 'start': 1410.98, 'duration': 9.48}
+{'text': 'những đứa trẻ học tại nhà ở tau trong thành phố của tôi, chúng tôi có khoảng', 'start': 1415.42, 'duration': 9.15}
+{'text': '100 gia đình học tại nhà, chúng tôi', 'start': 1420.46, 'duration': 7.86}
+{'text': 'thường xuyên tập hợp bọn trẻ lại với nhau. Tôi quan sát tất cả chúng', 'start': 1424.57, 'duration': 6.21}
+{'text': 'không ai trong số họ có vấn đề với', 'start': 1428.32, 'duration': 5.58}
+{'text': 'đời sống xã hội nhưng những đứa trẻ đi học luôn', 'start': 1430.78, 'duration': 7.59}
+{'text': 'gặp vấn đề với cuộc sống xã hội vì chúng', 'start': 1433.9, 'duration': 9.06}
+{'text': 'có con sói rất hẹp chúng sống trong một', 'start': 1438.37, 'duration': 5.929}
+{'text': 'căn phòng nhỏ', 'start': 1442.96, 'duration': 3.889}
+{'text': 'trong lớp học 30 người ở cùng nhau', 'start': 1444.299, 'duration': 5.82}
+{'text': 'không chỉ có 30 đứa trẻ trong một phòng và quay', 'start': 1446.849, 'duration': 7.08}
+{'text': 'lại  về nhà họ chỉ gặp bố mẹ và họ', 'start': 1450.119, 'duration': 5.13}
+{'text': 'trực tiếp nói rằng họ không thích bố mẹ', 'start': 1453.929, 'duration': 3.42}
+{'text': 'nhiều lắm họ chỉ vào phòng và đóng', 'start': 1455.249, 'duration': 4.831}
+{'text': 'cửa lại và sau đó họ dành rất nhiều', 'start': 1457.349, 'duration': 5.4}
+{'text': 'thời gian với máy tính khi đến', 'start': 1460.08, 'duration': 5.839}
+{'text': 'trường họ chỉ dành rất nhiều thời gian', 'start': 1462.749, 'duration': 6.571}
+{'text': 'với nó  điện thoại di động họ không nói chuyện với nhau', 'start': 1465.919, 'duration': 6.37}
+{'text': 'nhiều nên khi gặp mọi người,', 'start': 1469.32, 'duration': 4.909}
+{'text': 'họ rất khó giao tiếp với mọi người', 'start': 1472.289, 'duration': 4.8}
+{'text': 'nên tôi cảm thấy như một đứa trẻ đi học', 'start': 1474.229, 'duration': 5.471}
+{'text': 'gặp rất nhiều vấn đề, chúng có cảm', 'start': 1477.089, 'duration': 7.5}
+{'text': 'giác khó chịu và trong đó chúng có rất nhiều áp lực', 'start': 1479.7, 'duration': 9.24}
+{'text': 'rất nhiều căng thẳng trong cuộc sống của chúng. Tôi nhận thấy', 'start': 1484.589, 'duration': 8.43}
+{'text': 'rằng tại sao bọn trẻ lại trở thành', 'start': 1488.94, 'duration': 6.839}
+{'text': 'người nghiện ma túy đến vậy vì sự lạnh lùng của', 'start': 1493.019, 'duration': 6.02}
+{'text': 'trường học khiến chúng phải như vậy', 'start': 1495.779, 'duration': 7.95}
+{'text': 'tại sao chúng phải giống như một băng đảng đã', 'start': 1499.039, 'duration': 7.6}
+{'text': 'gây ra rất nhiều vấn đề vì chính chúng', 'start': 1503.729, 'duration': 6.36}
+{'text': 'cuộc sống không có tự do và không có tình yêu họ', 'start': 1506.639, 'duration': 5.46}
+{'text': 'bị áp bức suốt thời gian từ', 'start': 1510.089, 'duration': 4.351}
+{'text': 'nhà đến trường họ không thích', 'start': 1512.099, 'duration': 3.75}
+{'text': 'học môn này nhưng họ cần', 'start': 1514.44, 'duration': 3.029}
+{'text': 'học họ muốn chơi nhưng họ', 'start': 1515.849, 'duration': 4.53}
+{'text': 'không có thời gian để chơi nhiều', 'start': 1517.469, 'duration': 7.221}
+{'text': 'áp lực nên điều họ có thể làm là nổi dậy,', 'start': 1520.379, 'duration': 8.79}
+{'text': 'làm bất cứ điều gì chỉ để khiến cha mẹ hoặc', 'start': 1524.69, 'duration': 8.679}
+{'text': 'người khác cảm thấy khó chịu hoặc không vui vì vậy', 'start': 1529.169, 'duration': 7.05}
+{'text': 'đó là lý do tại sao tấm séc cấp cho họ', 'start': 1533.369, 'duration': 6.9}
+{'text': 'ủng hộ trò chơi nhưng', 'start': 1536.219, 'duration': 7.231}
+{'text': 'đứa trẻ học tại nhà không ai nghiện bạn kem', 'start': 1540.269, 'duration': 6.44}
+{'text': 'để chơi mà họ chơi trò chơi mà họ không', 'start': 1543.45, 'duration': 6.809}
+{'text': 'nghiện  Họ thấy vui vì', 'start': 1546.709, 'duration': 5.59}
+{'text': 'có rất nhiều điều thú vị trên thế giới', 'start': 1550.259, 'duration': 4.941}
+{'text': 'tại sao chúng ta cần chơi trò chơi.', 'start': 1552.299, 'duration': 5.73}
+{'text': 'Trò chơi quá nhàm chán là niềm vui cho những người có', 'start': 1555.2, 'duration': 11.139}
+{'text': 'cuộc sống khó khăn và cuộc sống tồi tệ nên những đứa trẻ học ở nhà chúng ta', 'start': 1558.029, 'duration': 10.68}
+{'text': 'không gặp vấn đề gì với đời sống xã hội vì', 'start': 1566.339, 'duration': 6.81}
+{'text': 'chúng ta có một  rất nhiều thời gian hôm nay họ có thể', 'start': 1568.709, 'duration': 8.491}
+{'text': 'ra biển để lặn trong đại dương này để', 'start': 1573.149, 'duration': 5.221}
+{'text': 'xem những gì dưới', 'start': 1577.2, 'duration': 4.14}
+{'text': 'biển là trò chơi thú vị hơn một ngày nào đó', 'start': 1578.37, 'duration': 5.37}
+{'text': 'họ đi leo núi một ngày nào đó', 'start': 1581.34, 'duration': 7.92}
+{'text': 'họ đi xem ngôi sao tên của', 'start': 1583.74, 'duration': 8.94}
+{'text': 'ngôi sao đã chết của bất cứ thứ gì ghép', 'start': 1589.26, 'duration': 5.88}
+{'text': 'cây  cho ăn nữa', 'start': 1592.68, 'duration': 5.28}
+{'text': 'có rất nhiều điều thú vị để làm ngoài', 'start': 1595.14, 'duration': 5.85}
+{'text': 'giờ học đó là lý do tại sao tôi cảm thấy', 'start': 1597.96, 'duration': 8.67}
+{'text': 'trường học chúng ta cần có ít cỏ hơn và', 'start': 1600.99, 'duration': 9.36}
+{'text': 'phí càng nhiều càng tốt để chúng ta cần đi chơi', 'start': 1606.63, 'duration': 7.89}
+{'text': 'nhiều hơn và quan điểm chính của việc học là', 'start': 1610.35, 'duration': 7.98}
+{'text': 'chính nhất  điều quan trọng của giáo dục', 'start': 1614.52, 'duration': 7.05}
+{'text': 'là tự do và tình yêu bất cứ khi nào bạn có', 'start': 1618.33, 'duration': 6.36}
+{'text': 'tự do bạn học được rất nhiều bất cứ khi nào bạn', 'start': 1621.57, 'duration': 5.43}
+{'text': 'yêu bạn cảm thấy như có ai đó yêu bạn', 'start': 1624.69, 'duration': 4.14}
+{'text': 'bạn không cần phải lo lắng về bất cứ điều gì', 'start': 1627.0, 'duration': 7.07}
+{'text': 'bạn học được rất nhiều vì vậy chúng tôi thử', 'start': 1628.83, 'duration': 8.82}
+{'text': 'thí nghiệm này cho đến nay tôi đã 14 năm rồi', 'start': 1634.07, 'duration': 7.0}
+{'text': 'cảm thấy rất vui vì chúng tôi đã thử điều này', 'start': 1637.65, 'duration': 6.09}
+{'text': 'chúng tôi thật may mắn vì chúng tôi đã không gửi', 'start': 1641.07, 'duration': 7.08}
+{'text': 'con mình đến trường bây giờ con trai tôi muốn', 'start': 1643.74, 'duration': 7.62}
+{'text': 'thử nghiệm ở trường nên chúng tôi đã', 'start': 1648.15, 'duration': 7.41}
+{'text': 'đưa cháu đến Coronado. cháu đã đến nói chuyện', 'start': 1651.36, 'duration': 7.23}
+{'text': 'với giáo viên như thường lệ.', 'start': 1655.56, 'duration': 5.91}
+{'text': 'bây giờ học lớp 8 nhưng sau khi nói chuyện với giáo viên,', 'start': 1658.59, 'duration': 5.31}
+{'text': 'giáo viên nói rằng cậu ấy phải học lớp 9, lẽ ra', 'start': 1661.47, 'duration': 4.47}
+{'text': 'cậu ấy không nên học lớp 8 vì cậu ấy ở', 'start': 1663.9, 'duration': 6.03}
+{'text': 'quá xa các bạn khác nên môn nào', 'start': 1665.94, 'duration': 7.29}
+{'text': 'cậu ấy cũng học tốt thậm chí cậu ấy không bao giờ vui lòng ngồi', 'start': 1669.93, 'duration': 6.3}
+{'text': 'đọc và viết như và  anh ấy chưa bao giờ', 'start': 1673.23, 'duration': 5.01}
+{'text': 'học như một đứa trẻ bình thường anh ấy học', 'start': 1676.23, 'duration': 7.85}
+{'text': 'từ kinh nghiệm thực tế thực tế nên', 'start': 1678.24, 'duration': 10.82}
+{'text': 'không khiến tôi cảm thấy như', 'start': 1684.08, 'duration': 9.45}
+{'text': 'hệ thống giáo dục hiện nay là về việc ghi nhớ', 'start': 1689.06, 'duration': 7.57}
+{'text': 'khi bạn nhớ những điều không tồn tại được', 'start': 1693.53, 'duration': 9.31}
+{'text': 'lâu việc ghi nhớ hoặc việc ghi nhớ khiến', 'start': 1696.63, 'duration': 8.46}
+{'text': 'mọi người sợ hãi hơn vì bạn không bao giờ', 'start': 1702.84, 'duration': 5.13}
+{'text': 'hiểu được điều đó  thường hiểu', 'start': 1705.09, 'duration': 6.58}
+{'text': 'bất cứ điều gì từ việc đọc và nghe bạn', 'start': 1707.97, 'duration': 6.39}
+{'text': 'chỉ nhớ bạn không bao giờ hiểu nó', 'start': 1711.67, 'duration': 5.33}
+{'text': 'hiểu được đến từ trải nghiệm cảm giác', 'start': 1714.36, 'duration': 8.26}
+{'text': 'tội lỗi chẳng hạn như nếu tôi có nước trong', 'start': 1717.0, 'duration': 9.37}
+{'text': 'lớp học của mình thì tôi đã nói loại nước này', 'start': 1722.62, 'duration': 7.71}
+{'text': 'rất ngọt mọi người nghĩ là nước là', 'start': 1726.37, 'duration': 8.66}
+{'text': 'chúng tôi họ nhớ điều đó nhưng mọi người thì', 'start': 1730.33, 'duration': 7.71}
+{'text': "không  'không nghĩ giống nhau về", 'start': 1735.03, 'duration': 6.04}
+{'text': 'loại đồ ngọt gì một số người', 'start': 1738.04, 'duration': 5.28}
+{'text': 'có thể nghĩ ngọt ngào như đường ngọt', 'start': 1741.07, 'duration': 5.31}
+{'text': 'như mật ong ngọt như mật đường nhìn nó', 'start': 1743.32, 'duration': 5.76}
+{'text': 'giống xoài người khác nghĩ', 'start': 1746.38, 'duration': 6.89}
+{'text': 'khác nhau nên đọc và nghe', 'start': 1749.08, 'duration': 9.83}
+{'text': 'nó trở thành triết lý nó nghĩ', 'start': 1753.27, 'duration': 8.44}
+{'text': 'mọi người nghĩ khác nhau nhưng  bất cứ khi nào', 'start': 1758.91, 'duration': 4.93}
+{'text': 'tôi đưa nước này cho mọi người uống', 'start': 1761.71, 'duration': 5.85}
+{'text': 'ồ nó ngọt ngào như thế này mọi người đều cảm thấy', 'start': 1763.84, 'duration': 6.36}
+{'text': 'ngọt ngào như thế này không phải là', 'start': 1767.56, 'duration': 5.39}
+{'text': 'bạn không thể thích mật ong nên điều này là', 'start': 1770.2, 'duration': 3.9}
+{'text': 'dễ hiểu', 'start': 1772.95, 'duration': 4.12}
+{'text': 'dù bạn đi đâu bạn nhìn thấy loại', 'start': 1774.1, 'duration': 5.79}
+{'text': 'nước này bạn biết ngay là ngọt ngào như thế', 'start': 1777.07, 'duration': 6.66}
+{'text': 'này nhưng  Khi bạn nghe tôi nói mà', 'start': 1779.89, 'duration': 6.84}
+{'text': 'không kiểm tra nó mọi lúc mọi nơi bạn', 'start': 1783.73, 'duration': 6.3}
+{'text': 'vẫn nghi ngờ trong đầu mình rằng nó giống như', 'start': 1786.73, 'duration': 6.42}
+{'text': 'đường, giống như mật ong vậy nên đây là', 'start': 1790.03, 'duration': 5.49}
+{'text': 'điều rất quan trọng để chúng ta nghĩ về việc', 'start': 1793.15, 'duration': 5.28}
+{'text': 'giáo dục cho con mình, chúng ta muốn con', 'start': 1795.52, 'duration': 5.85}
+{'text': 'hiểu rằng chúng ta không  muốn anh ấy nhớ', 'start': 1798.43, 'duration': 5.94}
+{'text': 'nhiều thông tin vì hiện tại chúng ta có rất', 'start': 1801.37, 'duration': 4.59}
+{'text': 'nhiều máy tính trên thế giới', 'start': 1804.37, 'duration': 3.81}
+{'text': 'tại sao chúng ta cần nhớ nhiều', 'start': 1805.96, 'duration': 5.25}
+{'text': 'thông tin chúng ta cần nhiều không gian hơn trong', 'start': 1808.18, 'duration': 7.2}
+{'text': 'não để suy nghĩ đến trí tưởng tượng để có', 'start': 1811.21, 'duration': 7.56}
+{'text': 'nhiều trí tưởng tượng hơn nhưng nếu não chúng ta đầy', 'start': 1815.38, 'duration': 7.31}
+{'text': 'về thông tin không có chỗ cho mọi thứ nên', 'start': 1818.77, 'duration': 7.77}
+{'text': 'đó là ý tưởng về Giáo dục mà tôi', 'start': 1822.69, 'duration': 7.54}
+{'text': 'tin tưởng vào lúc này và tôi cảm thấy muốn', 'start': 1826.54, 'duration': 9.21}
+{'text': 'giáo dục cho con trai mình đó là', 'start': 1830.23, 'duration': 9.15}
+{'text': 'món quà tuyệt vời nhất trong cuộc đời tôi con trai tôi giống như', 'start': 1835.75, 'duration': 8.64}
+{'text': 'giáo viên của tôi vì ông ấy đã dạy tôi rất nhiều', 'start': 1839.38, 'duration': 7.65}
+{'text': 'đã khiến tôi mở mang đầu óc anh ấy đã khiến tôi', 'start': 1844.39, 'duration': 6.63}
+{'text': 'lắng nghe mọi người nhiều hơn anh ấy khiến tôi lắng nghe', 'start': 1847.03, 'duration': 8.73}
+{'text': 'anh ấy Tôi có thể mượn con trai tôi như một', 'start': 1851.02, 'duration': 8.58}
+{'text': 'người thầy tuyệt vời trong cuộc đời tôi anh ấy đã khiến tôi ngày càng hiểu', 'start': 1855.76, 'duration': 7.44}
+{'text': 'bản thân mình hơn nên con trai tôi', 'start': 1859.6, 'duration': 6.97}
+{'text': 'là người thầy tuyệt vời của tôi, cảm ơn bạn', 'start': 1863.2, 'duration': 17.019}
+{'text': '[Vỗ tay]', 'start': 1866.57, 'duration': 13.649}
