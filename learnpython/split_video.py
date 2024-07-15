@@ -1,6 +1,12 @@
 import os
 import yt_dlp
 
+dev_path = r'D:\videos_store\dev'
+eng_path = r'D:\videos_store\english'
+our_planet_path = r'D:\videos_store\our_planet'
+student_path = r'D:\videos_store\student'
+vancar_path = r'D:\videos_store\vancar'
+
 def clear_directory(directory):
     # Kiểm tra xem thư mục tồn tại không
     if not os.path.exists(directory):
@@ -44,11 +50,16 @@ input_file = r'D:\python\learnpython\output_video\input.mp4'
 
 cmd_merge = f'ffmpeg -i "{video_file}" -i "{audio_file}" -c:v copy -c:a aac "{input_file}"'
 
-os.system(cmd_merge)
+# os.system(cmd_merge)
+
+# for x in 11:
+#     # Lệnh cmd để chạy ffmpeg (ví dụ: cắt video)
+#     output_file = r'D:\python\learnpython\output_video\output.mp4'
+#     cmd_split = f'ffmpeg -i "{input_file}" -ss 00:02:42 -to 00:03:35 -c:v copy -c:a copy "{output_file}"'
+
 
 # Lệnh cmd để chạy ffmpeg (ví dụ: cắt video)
 output_file = r'D:\python\learnpython\output_video\output.mp4'
-cmd_split = f'ffmpeg -i "{input_file}" -ss 00:02:42 -to 00:03:35 -c:v copy -c:a copy "{output_file}"'
-
+cmd_split = f'ffmpeg -i "{input_file}" -ss 00:00:00 -to 00:01:58 -c:v copy -c:a copy "{output_file}"'
 # Thực thi lệnh cmd
 os.system(cmd_split)
