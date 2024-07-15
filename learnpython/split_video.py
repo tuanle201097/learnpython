@@ -1,11 +1,14 @@
 import os
 import yt_dlp
+import openpyxl
 
-dev_path = r'D:\videos_store\dev'
-eng_path = r'D:\videos_store\english'
-our_planet_path = r'D:\videos_store\our_planet'
-student_path = r'D:\videos_store\student'
-vancar_path = r'D:\videos_store\vancar'
+video_paths = {
+    'dev_path': r'D:\videos_store\dev',
+    'eng_path': r'D:\videos_store\english',
+    'ourplanet_path': r'D:\videos_store\ourplanet',
+    'student_path': r'D:\videos_store\student',
+    'vancar_path': r'D:\videos_store\vancar'
+}
 
 def clear_directory(directory):
     # Kiểm tra xem thư mục tồn tại không
@@ -28,38 +31,57 @@ def clear_directory(directory):
         except Exception as e:
             print(f"Lỗi khi xóa '{file_path}': {e}")
 
-# Thay đổi thành đường dẫn thư mục mà bạn muốn xóa các tệp
-directory_to_clear = r'D:\python\learnpython\output_video'
+for key, value in video_paths.items():
+    # Thay đổi thành đường dẫn thư mục mà bạn muốn xóa các tệp
+    directory_to_clear = value
+    # Gọi hàm để xóa các tệp trong thư mục
+    clear_directory(directory_to_clear)
+i = 2
+for key, value in video_paths.items():
+    directory_to_clear = value
+    # Đọc dữ liệu từ file Excel
+    # Chuyển đến thư mục chứa youtube_url.xlsx
+    excel_dir = r'D:\python\learnpython'
+    os.chdir(excel_dir)
+    file_path = 'youtube_url.xlsx'  # Thay đổi đường dẫn tới file Excel của bạn
+    # Load workbook (bảng tính)
+    wb = openpyxl.load_workbook(file_path)
 
-# Gọi hàm để xóa các tệp trong thư mục
-clear_directory(directory_to_clear)
+    # Chọn sheet cụ thể (nếu cần)
+    sheet = wb['Sheet1']  # Thay 'Sheet1' bằng tên của sheet bạn muốn đọc
+    # Đọc dữ liệu từng ô
+    # Ví dụ: Đọc giá trị từ ô c2
+    cellurl_position = f'C{i}'  # Tạo vị trí ô dạng 'C{i}'
+    cellname_position = f'E{i}'  # Tạo vị trí ô dạng 'E{i}'
 
-download_cmd = f'yt-dlp -f 398+140 -P "{directory_to_clear}" --merge-output-format mp4  https://www.youtube.com/watch?v=Zjl2vmy02As'
-os.system(download_cmd)
-#rename file da tai
-os.rename(r'D:\python\learnpython\output_video\A Day in the Life of a Software Engineer... WFH [Zjl2vmy02As].f140.m4a', r'D:\python\learnpython\output_video\audio.m4a')
-os.rename(r'D:\python\learnpython\output_video\A Day in the Life of a Software Engineer... WFH [Zjl2vmy02As].f398.mp4', r'D:\python\learnpython\output_video\video.mp4')
+    print(f"Vị trí ô: {cellurl_position}")
+    print(f"Vị trí name: {cellname_position}")
 
-# #Đường dẫn tuyệt đối tới thư mục chứa file ffmpeg.exe
-ffmpeg_dir = r'D:\python\learnpython\ffmpeg-master-latest-win64-gpl-shared\bin'
-# Chuyển đến thư mục chứa ffmpeg.exe
-os.chdir(ffmpeg_dir)
-audio_file = r'D:\python\learnpython\output_video\audio.m4a'
-video_file = r'D:\python\learnpython\output_video\video.mp4'
-input_file = r'D:\python\learnpython\output_video\input.mp4'
+    cellurl_value = sheet[cellurl_position].value
+    cellname_value = sheet[cellname_position].value
 
-cmd_merge = f'ffmpeg -i "{video_file}" -i "{audio_file}" -c:v copy -c:a aac "{input_file}"'
+    download_cmd = f'yt-dlp -f 398+140 -P "{directory_to_clear}" --merge-output-format mp4  "{cellurl_value}" -o "{cellname_value}"'
+    os.system(download_cmd)
 
-# os.system(cmd_merge)
+    print(f"Vị trí directory_to_clear: {directory_to_clear}")
+    #Đường dẫn tuyệt đối tới thư mục chứa file ffmpeg.exe
+    ffmpeg_dir = r'D:\python\learnpython\ffmpeg-master-latest-win64-gpl-shared\bin'
+    # Chuyển đến thư mục chứa ffmpeg.exe
+    os.chdir(ffmpeg_dir)
+    audio_file = fr'{directory_to_clear}\{cellname_value}.f140.m4a'
+    video_file = fr'{directory_to_clear}\{cellname_value}.f398.mp4'
+    input_file = fr'{directory_to_clear}\{cellname_value}.mp4'
 
-# for x in 11:
-#     # Lệnh cmd để chạy ffmpeg (ví dụ: cắt video)
-#     output_file = r'D:\python\learnpython\output_video\output.mp4'
-#     cmd_split = f'ffmpeg -i "{input_file}" -ss 00:02:42 -to 00:03:35 -c:v copy -c:a copy "{output_file}"'
+    cmd_merge = f'ffmpeg -i "{video_file}" -i "{audio_file}" -c:v copy -c:a aac "{input_file}"'
+    os.system(cmd_merge)
 
+    # Lệnh cmd để chạy ffmpeg (ví dụ: cắt video)
+    output_file = fr'{directory_to_clear}\output.mp4'
 
-# Lệnh cmd để chạy ffmpeg (ví dụ: cắt video)
-output_file = r'D:\python\learnpython\output_video\output.mp4'
-cmd_split = f'ffmpeg -i "{input_file}" -ss 00:00:00 -to 00:01:58 -c:v copy -c:a copy "{output_file}"'
-# Thực thi lệnh cmd
-os.system(cmd_split)
+    cmd_split = f'ffmpeg -i "{input_file}" -ss 00:00:00 -to 00:01:58 -c:v copy -c:a copy "{output_file}"'
+    # Thực thi lệnh cmd
+    os.system(cmd_split)    
+
+    i += 1
+# Đóng workbook sau khi sử dụng
+wb.close()
