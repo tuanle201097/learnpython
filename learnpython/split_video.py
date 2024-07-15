@@ -76,12 +76,169 @@ for key, value in video_paths.items():
     os.system(cmd_merge)
 
     # Lệnh cmd để chạy ffmpeg (ví dụ: cắt video)
-    output_file = fr'{directory_to_clear}\output.mp4'
+    output_name = "output"
+    output_file = fr'{directory_to_clear}\{output_name}.mp4'
 
-    cmd_split = f'ffmpeg -i "{input_file}" -ss 00:00:00 -to 00:01:58 -c:v copy -c:a copy "{output_file}"'
-    # Thực thi lệnh cmd
-    os.system(cmd_split)    
+    if i == 2:
+        empty_cell_count = 0
+        row_index = 2
+        while True:
+            cell_value = sheet.cell(row=row_index, column=6).value  # Lấy giá trị ô trong cột F
+    
+            if cell_value is None or cell_value == '':
+                break  # Dừng lại khi gặp ô rỗng đầu tiên
+            else:
+                empty_cell_count += 1
+    
+            row_index += 1
 
+        print(f"Số thứ tự của ô rỗng đầu tiên trong cột A là: {empty_cell_count}")
+        if empty_cell_count > 0: 
+            for j in range(empty_cell_count):   
+                duration_position1 = f'F{j+2}'  # Tạo vị trí ô dạng 'F{i}'
+                duration_position2 = f'F{j+2+1}'  # Tạo vị trí ô dạng 'F{i+1}'
+
+                print(f"Vị trí duration_position1: {duration_position1}")
+                print(f"Vị trí duration_position2: {duration_position2}")
+
+                duration_value1 = sheet[duration_position1].value
+                duration_value2 = sheet[duration_position2].value
+
+                print(f"Vị trí duration_value2: {duration_value2}")
+                if duration_value2 == None:
+                    break
+                cmd_split = f'ffmpeg -i "{input_file}" -ss {duration_value1} -to {duration_value2} -c:v copy -c:a copy "{output_file}"'
+                # Thực thi lệnh cmd
+                os.system(cmd_split)
+                output_file = fr'{directory_to_clear}\{output_name}{j+1}.mp4'
+    elif i == 3:
+        empty_cell_count = 0
+        row_index = 2
+        while True:
+            cell_value = sheet.cell(row=row_index, column=7).value  # Lấy giá trị ô trong cột G
+    
+            if cell_value is None or cell_value == '':
+                break  # Dừng lại khi gặp ô rỗng đầu tiên
+            else:
+                empty_cell_count += 1
+    
+            row_index += 1
+
+        print(f"Số thứ tự của ô rỗng đầu tiên trong cột A là: {empty_cell_count}")
+        if empty_cell_count > 0: 
+            for j in range(empty_cell_count):   
+                duration_position1 = f'G{j+2}'  # Tạo vị trí ô dạng 'F{i}'
+                duration_position2 = f'G{j+2+1}'  # Tạo vị trí ô dạng 'F{i+1}'
+
+                print(f"Vị trí duration_position1: {duration_position1}")
+                print(f"Vị trí duration_position2: {duration_position2}")
+
+                duration_value1 = sheet[duration_position1].value
+                duration_value2 = sheet[duration_position2].value
+
+                print(f"Vị trí duration_value2: {duration_value2}")
+                if duration_value2 == None:
+                    break
+                cmd_split = f'ffmpeg -i "{input_file}" -ss {duration_value1} -to {duration_value2} -c:v copy -c:a copy "{output_file}"'
+                # Thực thi lệnh cmd
+                os.system(cmd_split)
+                output_file = fr'{directory_to_clear}\{output_name}{j+1}.mp4'
+    elif i == 4:
+        empty_cell_count = 0
+        row_index = 2
+        while True:
+            cell_value = sheet.cell(row=row_index, column=8).value  # Lấy giá trị ô trong cột H
+    
+            if cell_value is None or cell_value == '':
+                break  # Dừng lại khi gặp ô rỗng đầu tiên
+            else:
+                empty_cell_count += 1
+    
+            row_index += 1
+
+        print(f"Số thứ tự của ô rỗng đầu tiên trong cột A là: {empty_cell_count}")
+        if empty_cell_count > 0: 
+            for j in range(empty_cell_count):   
+                duration_position1 = f'H{j+2}'  # Tạo vị trí ô dạng 'F{i}'
+                duration_position2 = f'H{j+2+1}'  # Tạo vị trí ô dạng 'F{i+1}'
+
+                print(f"Vị trí duration_position1: {duration_position1}")
+                print(f"Vị trí duration_position2: {duration_position2}")
+
+                duration_value1 = sheet[duration_position1].value
+                duration_value2 = sheet[duration_position2].value
+
+                print(f"Vị trí duration_value2: {duration_value2}")
+                if duration_value2 == None:
+                    break
+                cmd_split = f'ffmpeg -i "{input_file}" -ss {duration_value1} -to {duration_value2} -c:v copy -c:a copy "{output_file}"'
+                # Thực thi lệnh cmd
+                os.system(cmd_split)
+                output_file = fr'{directory_to_clear}\{output_name}{j+1}.mp4'
+    elif i == 5:
+        empty_cell_count = 0
+        row_index = 2
+        while True:
+            cell_value = sheet.cell(row=row_index, column=9).value  # Lấy giá trị ô trong cột I
+    
+            if cell_value is None or cell_value == '':
+                break  # Dừng lại khi gặp ô rỗng đầu tiên
+            else:
+                empty_cell_count += 1
+    
+            row_index += 1
+
+        print(f"Số thứ tự của ô rỗng đầu tiên trong cột A là: {empty_cell_count}")
+        if empty_cell_count > 0: 
+            for j in range(empty_cell_count):   
+                duration_position1 = f'I{j+2}'  # Tạo vị trí ô dạng 'F{i}'
+                duration_position2 = f'I{j+2+1}'  # Tạo vị trí ô dạng 'F{i+1}'
+
+                print(f"Vị trí duration_position1: {duration_position1}")
+                print(f"Vị trí duration_position2: {duration_position2}")
+
+                duration_value1 = sheet[duration_position1].value
+                duration_value2 = sheet[duration_position2].value
+
+                print(f"Vị trí duration_value2: {duration_value2}")
+                if duration_value2 == None:
+                    break
+                cmd_split = f'ffmpeg -i "{input_file}" -ss {duration_value1} -to {duration_value2} -c:v copy -c:a copy "{output_file}"'
+                # Thực thi lệnh cmd
+                os.system(cmd_split)
+                output_file = fr'{directory_to_clear}\{output_name}{j+1}.mp4'
+    else:
+        empty_cell_count = 0
+        row_index = 2
+        while True:
+            cell_value = sheet.cell(row=row_index, column=10).value  # Lấy giá trị ô trong cột J
+    
+            if cell_value is None or cell_value == '':
+                break  # Dừng lại khi gặp ô rỗng đầu tiên
+            else:
+                empty_cell_count += 1
+    
+            row_index += 1
+
+        print(f"Số thứ tự của ô rỗng đầu tiên trong cột A là: {empty_cell_count}")
+        if empty_cell_count > 0: 
+            for j in range(empty_cell_count):   
+                duration_position1 = f'J{j+2}'  # Tạo vị trí ô dạng 'F{i}'
+                duration_position2 = f'J{j+2+1}'  # Tạo vị trí ô dạng 'F{i+1}'
+
+                print(f"Vị trí duration_position1: {duration_position1}")
+                print(f"Vị trí duration_position2: {duration_position2}")
+
+                duration_value1 = sheet[duration_position1].value
+                duration_value2 = sheet[duration_position2].value
+
+                print(f"Vị trí duration_value2: {duration_value2}")
+                if duration_value2 == None:
+                    break
+                cmd_split = f'ffmpeg -i "{input_file}" -ss {duration_value1} -to {duration_value2} -c:v copy -c:a copy "{output_file}"'
+                # Thực thi lệnh cmd
+                os.system(cmd_split)
+                output_file = fr'{directory_to_clear}\{output_name}{j+1}.mp4'
     i += 1
 # Đóng workbook sau khi sử dụng
 wb.close()
