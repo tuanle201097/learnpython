@@ -1,6 +1,7 @@
 import os
 import yt_dlp
 import openpyxl
+from vtt_to_srt.vtt_to_srt import ConvertFile
 
 video_paths = {
     'dev_path': r'D:\videos_store\dev',
@@ -9,6 +10,9 @@ video_paths = {
     'student_path': r'D:\videos_store\student',
     'vancar_path': r'D:\videos_store\vancar'
 }
+
+#Đường dẫn tuyệt đối tới thư mục chứa file ffmpeg.exe
+ffmpeg_dir = r'D:\python\learnpython\ffmpeg-master-latest-win64-gpl-shared\bin'
 
 def clear_directory(directory):
     # Kiểm tra xem thư mục tồn tại không
@@ -59,18 +63,37 @@ for key, value in video_paths.items():
 
     cellurl_value = sheet[cellurl_position].value
     cellname_value = sheet[cellname_position].value
+    
+    download_cmd = f'yt-dlp --write-auto-sub --sub-lang "en.*" -P "{directory_to_clear}" "{cellurl_value}" -o "{cellname_value}"'
+    os.system(download_cmd)
+
+    subvtt_file = fr'{directory_to_clear}\{cellname_value}.en.vtt'
+    # Kiểm tra và convert file VTT sang SRT nếu tồn tại
+    try:
+        # Kiểm tra xem file tồn tại hay không
+        if os.path.exists(subvtt_file):
+            convert_file = ConvertFile(subvtt_file, "utf-8")
+            convert_file.convert()
+        else:
+            print(f"File {subvtt_file} does not exist. Skipping this task.")
+    except FileNotFoundError:
+        print(f"File not found: {subvtt_file}. Skipping this task.")
 
     download_cmd = f'yt-dlp -f 398+140 -P "{directory_to_clear}" --merge-output-format mp4  "{cellurl_value}" -o "{cellname_value}"'
     os.system(download_cmd)
 
     print(f"Vị trí directory_to_clear: {directory_to_clear}")
-    #Đường dẫn tuyệt đối tới thư mục chứa file ffmpeg.exe
-    ffmpeg_dir = r'D:\python\learnpython\ffmpeg-master-latest-win64-gpl-shared\bin'
     # Chuyển đến thư mục chứa ffmpeg.exe
     os.chdir(ffmpeg_dir)
     audio_file = fr'{directory_to_clear}\{cellname_value}.f140.m4a'
     video_file = fr'{directory_to_clear}\{cellname_value}.f398.mp4'
-    input_file = fr'{directory_to_clear}\{cellname_value}.mp4'
+    compile_file = fr'{directory_to_clear}\{cellname_value}.mp4'
+    subsrt_file = fr'{directory_to_clear}\{cellname_value}.en.srt'
+    input_file = fr'{directory_to_clear}\{cellname_value}_srt.mp4'
+
+    #Ghep subtitles vao video truoc khi merge video va audio
+    embedvideo_cmd = f'ffmpeg -i "{compile_file}" -vf subtitles="{subsrt_file}" "{input_file}"'
+    os.system(embedvideo_cmd)
 
     cmd_merge = f'ffmpeg -i "{video_file}" -i "{audio_file}" -c:v copy -c:a aac "{input_file}"'
     os.system(cmd_merge)
