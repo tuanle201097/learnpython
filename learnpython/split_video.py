@@ -8,7 +8,7 @@ import getInfo_excel
 import merge_video
 
 video_paths = {
-    'dev_path': r'D:\videos_store\dev',
+    # 'dev_path': r'D:\videos_store\dev',
     'eng_path': r'D:\videos_store\english',
     'ourplanet_path': r'D:\videos_store\ourplanet',
     'student_path': r'D:\videos_store\student',
@@ -53,19 +53,25 @@ for key, value in video_paths.items():
     ffmpeg_dir = r'D:\python\learnpython\ffmpeg-master-latest-win64-gpl-shared\bin'
     # Chuyển đến thư mục chứa ffmpeg.exe
     os.chdir(ffmpeg_dir)
-    download_cmd = f'yt-dlp -f "bv*[ext=webm]+ba[ext=webm]/b[ext=webm] / bv*+ba/b" --write-auto-sub --sub-lang "en.*" -P "{directory_to_clear}" --merge-output-format webm  "{cellurl_value}" -o "{cellname_value}"'
+    # download_cmd = f'yt-dlp -f "bv*[ext=webm]+ba[ext=webm]/b[ext=webm] / bv*+ba/b" -P "{directory_to_clear}" --merge-output-format webm  "{cellurl_value}" -o "{cellname_value}"'
+    download_cmd = f'yt-dlp -f "248+251" -P "{directory_to_clear}" --merge-output-format webm  "{cellurl_value}" -o "{cellname_value}"'
     os.system(download_cmd)
 
     input_file = None
+    input_srt = None
     # input_file = merge_video.merge_video(directory_to_clear,cellname_value)
 
     input_file = fr'{directory_to_clear}\{cellname_value}.webm'
+    input_srt = fr'{directory_to_clear}\{cellname_value}.en.srt'
 
     print(f"Vị trí directory_to_clear: {directory_to_clear}")
 
     # Lệnh cmd để chạy ffmpeg (ví dụ: cắt video)
-    output_name = "output"
-    output_file = fr'{directory_to_clear}\{output_name}.webm'
+    output_name = cellname_value
+    output_file = fr'{directory_to_clear}\{output_name}"-P1".webm'
+
+    output_srt = cellname_value
+    output_srt_file = fr'{directory_to_clear}\{output_name}"-P1".srt'
 
     if i == 2:
         empty_cell_count = 0
@@ -91,10 +97,14 @@ for key, value in video_paths.items():
                 print(f"Vị trí duration_value2: {duration_value2}")
                 if duration_value2 == None:
                     break
-                cmd_split = f'ffmpeg -i "{input_file}" -ss {duration_value1} -to {duration_value2} -c:v copy -c:a copy -c:s mov_text -map 0:v -map 0:a -map 1:s "{output_file}"'
+                cmd_split = f'ffmpeg -i "{input_file}" -ss {duration_value1} -to {duration_value2} -c:v copy -c:a copy -c:s mov_text "{output_file}"'
                 # Thực thi lệnh cmd
                 os.system(cmd_split)
-                output_file = fr'{directory_to_clear}\{output_name}{j+1}.webm'
+                #Ghep subtitles vao video truoc khi merge video va audio
+                splitsrt_cmd = f'ffmpeg -i {input_srt} -ss {duration_value1} -to {duration_value2} -c copy {output_srt_file}"'
+                os.system(splitsrt_cmd)
+                output_file = fr'{directory_to_clear}\{output_name}"-P"{j+2}.webm'
+                output_srt_file = fr'{directory_to_clear}\{output_name}"-P"{j+2}.srt'
                 index +=1
     elif i == 3:
         empty_cell_count = 0
@@ -115,15 +125,19 @@ for key, value in video_paths.items():
             for j in range(empty_cell_count):   
                 duration_value1 = None
                 duration_value2 = None
-                duration_value1,duration_value2 = getInfo_excel.getInfor(file_path,i,3,index,7)  # Lấy giá trị ô trong cột G
+                duration_value1,duration_value2 = getInfo_excel.getInfor(file_path,i,3,index,7)  # Lấy giá trị ô trong cột F
 
                 print(f"Vị trí duration_value2: {duration_value2}")
                 if duration_value2 == None:
                     break
-                cmd_split = f'ffmpeg -i "{input_file}" -ss {duration_value1} -to {duration_value2} -c:v copy -c:a copy -c:s mov_text -map 0:v -map 0:a  "{output_file}"'
+                cmd_split = f'ffmpeg -i "{input_file}" -ss {duration_value1} -to {duration_value2} -c:v copy -c:a copy -c:s mov_text "{output_file}"'
                 # Thực thi lệnh cmd
                 os.system(cmd_split)
-                output_file = fr'{directory_to_clear}\{output_name}{j+1}.webm'
+                #Ghep subtitles vao video truoc khi merge video va audio
+                splitsrt_cmd = f'ffmpeg -i {input_srt} -ss {duration_value1} -to {duration_value2} -c copy {output_srt_file}"'
+                os.system(splitsrt_cmd)
+                output_file = fr'{directory_to_clear}\{output_name}"-P"{j+2}.webm'
+                output_srt_file = fr'{directory_to_clear}\{output_name}"-P"{j+2}.srt'
                 index +=1
     elif i == 4:
         empty_cell_count = 0
@@ -144,15 +158,19 @@ for key, value in video_paths.items():
             for j in range(empty_cell_count):   
                 duration_value1 = None
                 duration_value2 = None
-                duration_value1,duration_value2 = getInfo_excel.getInfor(file_path,i,3,index,8)  # Lấy giá trị ô trong cột H
+                duration_value1,duration_value2 = getInfo_excel.getInfor(file_path,i,3,index,8)  # Lấy giá trị ô trong cột F
 
                 print(f"Vị trí duration_value2: {duration_value2}")
                 if duration_value2 == None:
                     break
-                cmd_split = f'ffmpeg -i "{input_file}" -ss {duration_value1} -to {duration_value2} -c:v copy -c:a copy "{output_file}"'
+                cmd_split = f'ffmpeg -i "{input_file}" -ss {duration_value1} -to {duration_value2} -c:v copy -c:a copy -c:s mov_text "{output_file}"'
                 # Thực thi lệnh cmd
                 os.system(cmd_split)
-                output_file = fr'{directory_to_clear}\{output_name}{j+1}.webm'
+                #Ghep subtitles vao video truoc khi merge video va audio
+                splitsrt_cmd = f'ffmpeg -i {input_srt} -ss {duration_value1} -to {duration_value2} -c copy {output_srt_file}"'
+                os.system(splitsrt_cmd)
+                output_file = fr'{directory_to_clear}\{output_name}"-P"{j+2}.webm'
+                output_srt_file = fr'{directory_to_clear}\{output_name}"-P"{j+2}.srt'
                 index +=1
     elif i == 5:
         empty_cell_count = 0
@@ -173,15 +191,19 @@ for key, value in video_paths.items():
             for j in range(empty_cell_count):   
                 duration_value1 = None
                 duration_value2 = None
-                duration_value1,duration_value2 = getInfo_excel.getInfor(file_path,i,3,index,9)  # Lấy giá trị ô trong cột I
+                duration_value1,duration_value2 = getInfo_excel.getInfor(file_path,i,3,index,9)  # Lấy giá trị ô trong cột F
 
                 print(f"Vị trí duration_value2: {duration_value2}")
                 if duration_value2 == None:
                     break
-                cmd_split = f'ffmpeg -i "{input_file}" -ss {duration_value1} -to {duration_value2} -c:v copy -c:a copy "{output_file}"'
+                cmd_split = f'ffmpeg -i "{input_file}" -ss {duration_value1} -to {duration_value2} -c:v copy -c:a copy -c:s mov_text "{output_file}"'
                 # Thực thi lệnh cmd
                 os.system(cmd_split)
-                output_file = fr'{directory_to_clear}\{output_name}{j+1}.webm'
+                #Ghep subtitles vao video truoc khi merge video va audio
+                splitsrt_cmd = f'ffmpeg -i {input_srt} -ss {duration_value1} -to {duration_value2} -c copy {output_srt_file}"'
+                os.system(splitsrt_cmd)
+                output_file = fr'{directory_to_clear}\{output_name}"-P"{j+2}.webm'
+                output_srt_file = fr'{directory_to_clear}\{output_name}"-P"{j+2}.srt'
                 index +=1
     else:
         empty_cell_count = 0
@@ -202,14 +224,18 @@ for key, value in video_paths.items():
             for j in range(empty_cell_count):   
                 duration_value1 = None
                 duration_value2 = None
-                duration_value1,duration_value2 = getInfo_excel.getInfor(file_path,i,3,index,10)  # Lấy giá trị ô trong cột J
+                duration_value1,duration_value2 = getInfo_excel.getInfor(file_path,i,3,index,10)  # Lấy giá trị ô trong cột F
 
                 print(f"Vị trí duration_value2: {duration_value2}")
                 if duration_value2 == None:
                     break
-                cmd_split = f'ffmpeg -i "{input_file}" -ss {duration_value1} -to {duration_value2} -c:v copy -c:a copy "{output_file}"'
+                cmd_split = f'ffmpeg -i "{input_file}" -ss {duration_value1} -to {duration_value2} -c:v copy -c:a copy -c:s mov_text "{output_file}"'
                 # Thực thi lệnh cmd
                 os.system(cmd_split)
-                output_file = fr'{directory_to_clear}\{output_name}{j+1}.webm'
+                #Ghep subtitles vao video truoc khi merge video va audio
+                splitsrt_cmd = f'ffmpeg -i {input_srt} -ss {duration_value1} -to {duration_value2} -c copy {output_srt_file}"'
+                os.system(splitsrt_cmd)
+                output_file = fr'{directory_to_clear}\{output_name}"-P"{j+2}.webm'
+                output_srt_file = fr'{directory_to_clear}\{output_name}"-P"{j+2}.srt'
                 index +=1
-    # i += 1
+    i += 1
