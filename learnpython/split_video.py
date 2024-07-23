@@ -9,10 +9,11 @@ import merge_video
 
 video_paths = {
     # 'dev_path': r'D:\videos_store\dev',
-    'eng_path': r'D:\videos_store\english',
-    'ourplanet_path': r'D:\videos_store\ourplanet',
-    'student_path': r'D:\videos_store\student',
-    'vancar_path': r'D:\videos_store\vancar'
+    # 'eng_path': r'D:\videos_store\english',
+    # 'ourplanet_path': r'D:\videos_store\ourplanet',
+    # 'student_path': r'D:\videos_store\student',
+    # 'vancar_path': r'D:\videos_store\vancar',
+    'ielts_path': r'D:\videos_store\ielts'
 }
 
 #Đường dẫn tuyệt đối tới thư mục chứa file ffmpeg.exe
@@ -29,14 +30,14 @@ for key, value in video_paths.items():
     directory_to_clear = value
     # Gọi hàm để xóa các tệp trong thư mục
     clear_directory.clear_directory(directory_to_clear)
-i = 3
+i = 7
 for key, value in video_paths.items():
     directory_to_clear = value
 
     cellurl_value,cellname_value = getInfo_excel.getInfor(file_path,i,1,None,None)
     
-    download_cmd = f'yt-dlp --write-auto-sub --sub-lang "en.*" -P "{directory_to_clear}" "{cellurl_value}" -o "{cellname_value}"'
-    os.system(download_cmd)
+    # download_cmd = f'yt-dlp --write-auto-sub --sub-lang "en.*" -P "{directory_to_clear}" "{cellurl_value}" -o "{cellname_value}"'
+    # os.system(download_cmd)
 
     subvtt_file = fr'{directory_to_clear}\{cellname_value}.en.vtt'
     # Kiểm tra và convert file VTT sang SRT nếu tồn tại
@@ -205,7 +206,7 @@ for key, value in video_paths.items():
                 output_file = fr'{directory_to_clear}\{output_name}"-P"{j+2}.webm'
                 output_srt_file = fr'{directory_to_clear}\{output_name}"-P"{j+2}.srt'
                 index +=1
-    else:
+    elif i == 6:
         empty_cell_count = 0
         row_index = 2
         while True:
@@ -225,6 +226,39 @@ for key, value in video_paths.items():
                 duration_value1 = None
                 duration_value2 = None
                 duration_value1,duration_value2 = getInfo_excel.getInfor(file_path,i,3,index,10)  # Lấy giá trị ô trong cột F
+
+                print(f"Vị trí duration_value2: {duration_value2}")
+                if duration_value2 == None:
+                    break
+                cmd_split = f'ffmpeg -i "{input_file}" -ss {duration_value1} -to {duration_value2} -c:v copy -c:a copy -c:s mov_text "{output_file}"'
+                # Thực thi lệnh cmd
+                os.system(cmd_split)
+                #Ghep subtitles vao video truoc khi merge video va audio
+                splitsrt_cmd = f'ffmpeg -i {input_srt} -ss {duration_value1} -to {duration_value2} -c copy {output_srt_file}"'
+                os.system(splitsrt_cmd)
+                output_file = fr'{directory_to_clear}\{output_name}"-P"{j+2}.webm'
+                output_srt_file = fr'{directory_to_clear}\{output_name}"-P"{j+2}.srt'
+                index +=1
+    else:
+        empty_cell_count = 0
+        row_index = 2
+        while True:
+            cell_value,name_value = getInfo_excel.getInfor(file_path,i,2,row_index,11)  # Lấy giá trị ô trong cột J
+    
+            if cell_value is None or cell_value == '':
+                break  # Dừng lại khi gặp ô rỗng đầu tiên
+            else:
+                empty_cell_count += 1
+    
+            row_index += 1
+
+        print(f"Số thứ tự của ô rỗng đầu tiên trong cột A là: {empty_cell_count}")
+        if empty_cell_count > 0: 
+            index = 2
+            for j in range(empty_cell_count):   
+                duration_value1 = None
+                duration_value2 = None
+                duration_value1,duration_value2 = getInfo_excel.getInfor(file_path,i,3,index,11)  # Lấy giá trị ô trong cột F
 
                 print(f"Vị trí duration_value2: {duration_value2}")
                 if duration_value2 == None:
