@@ -33,11 +33,13 @@ def text_to_speech2(text_file, output_audio_file):
     print("Done")
 
 # Đường dẫn đến file text và file âm thanh đầu ra
-text_file = 'english.txt'
+text_file = 'subtitles.txt'
 output_audio_file = 'output_audio.mp3'
 
-# # Gọi hàm để chuyển đổi và lưu file âm thanh
-# text_to_speech(text_file, output_audio_file)
+# Gọi hàm để chuyển đổi và lưu file âm thanh
+# text_to_speech2(text_file, output_audio_file)y
+# Gọi hàm để chuyển đổi và lưu file âm thanh
+# text_to_speech1(text_file)
 
 
 #Đường dẫn tuyệt đối tới thư mục chứa file ffmpeg.exe
@@ -45,11 +47,6 @@ ffmpeg_dir = r'D:\python\learnpython\ffmpeg-master-latest-win64-gpl-shared\bin'
 # Chuyển đến thư mục chứa ffmpeg.exe
 os.chdir(ffmpeg_dir)
 
-# Đọc file audio từ file mp3
-audio = AudioSegment.from_file("output_audio.mp3", format="mp3")
-
-# Tăng tốc độ phát lại lên gấp đôi (2.0 lần)
-audio = audio.speedup(playback_speed=1.4)
-
-# Xuất file audio mới với tốc độ đã tăng lên thành file mp3
-audio.export("final.mp3", format="mp3")
+cmd_speed = 'ffmpeg -i D:\python\learnpython\output_audio.mp3 -filter:a "atempo=1.5" D:\python\learnpython\output.mp3'
+# Thực thi lệnh cmd
+os.system(cmd_speed)

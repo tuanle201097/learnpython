@@ -2,11 +2,8 @@
 from youtube_transcript_api import YouTubeTranscriptApi
 
 # using the srt variable with the list of dictionaries 
-# obtained by the .get_transcript() function
-# srt = YouTubeTranscriptApi.get_transcript("EhmQQLzm5b0",languages=['en'])
-srt = YouTubeTranscriptApi.get_transcript("Ha6guNv9fOA")
 # retrieve the available transcripts
-transcript_list = YouTubeTranscriptApi.list_transcripts('Ha6guNv9fOA')
+transcript_list = YouTubeTranscriptApi.list_transcripts('xHrItUR_PD8')
 # iterate over all available transcripts
 for transcript in transcript_list:
  
@@ -35,11 +32,53 @@ for transcript in transcript_list:
     # translating the transcript will return another
     # transcript object
     print(transcript.translate('vi').fetch())
+
+    
+srt = YouTubeTranscriptApi.get_transcript("xHrItUR_PD8")
     # creating or overwriting a file "subtitles.txt" with 
     # the info inside the context manager
-    vietnam = transcript.translate('vi').fetch()
-    with open("subtitles_vn.txt", "w",encoding="utf-8") as f:
-        for i,j in zip(srt,vietnam):
-            # writing each element of srt on a new line
-            f.write("{}\n".format(i))
-            f.write("{}\n".format(j))
+vietnam = transcript.translate('vi').fetch()
+with open("subtitles_vn.txt", "w",encoding="utf-8") as f:
+    for i,j in zip(srt,vietnam):
+        # writing each element of srt on a new line
+        # f.write("{}\n".format(i))
+        f.write("{}\n".format(j))
+
+import json
+import re
+
+def process_text(input_text):
+    try:
+        # Phân tích chuỗi JSON từ đầu vào
+        data = json.loads(input_text)
+        # Kiểm tra xem key 'text' có tồn tại trong dictionary không
+        if 'text' in data:
+            text = data['text']
+            
+            # Xóa các ký tự đặc biệt cuối chuỗi (nếu có)
+            text = re.sub(r'[^\w\s]$', '', text)
+            
+            return text
+        else:
+            print("Không tìm thấy key 'text' trong dữ liệu JSON.")
+            return None
+    except json.JSONDecodeError as e:
+        print(f"Lỗi phân tích chuỗi JSON: {e}")
+        return None
+    
+with open('subtitles_vn.txt', 'r', encoding='utf-8') as source_file:
+    with open('subtitles.txt', 'w', encoding='utf-8') as dest_file:
+        for line in source_file:
+            line = line.replace("'", '"')
+            
+            line.strip().upper()
+            processed_text = process_text(line)
+            dest_file.write(processed_text + ' ')  # Ghi dữ liệu đã xử lý vào destination
+
+# # Chuỗi đầu vào từ yêu cầu của bạn (bao gồm cả dấu {})
+# input_text = '{"text": "nhóm người này đang đi đến một hòn đảo", "start": 0.28, "duration": 4.24}'
+
+# # Xử lý văn bản và in ra kết quả
+# processed_text = process_text(input_text)
+# if processed_text:
+#     print("Output:", processed_text)
