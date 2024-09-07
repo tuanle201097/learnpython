@@ -3,7 +3,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 
 # using the srt variable with the list of dictionaries 
 # retrieve the available transcripts
-transcript_list = YouTubeTranscriptApi.list_transcripts('xHrItUR_PD8')
+transcript_list = YouTubeTranscriptApi.list_transcripts('gmqlNXgh3rQ')
 # iterate over all available transcripts
 for transcript in transcript_list:
  
@@ -34,7 +34,7 @@ for transcript in transcript_list:
     print(transcript.translate('vi').fetch())
 
     
-srt = YouTubeTranscriptApi.get_transcript("xHrItUR_PD8")
+srt = YouTubeTranscriptApi.get_transcript("gmqlNXgh3rQ")
     # creating or overwriting a file "subtitles.txt" with 
     # the info inside the context manager
 vietnam = transcript.translate('vi').fetch()

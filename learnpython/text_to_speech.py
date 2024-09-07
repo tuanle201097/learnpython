@@ -36,8 +36,8 @@ def text_to_speech2(text_file, output_audio_file):
 text_file = 'subtitles.txt'
 output_audio_file = 'output_audio.mp3'
 
-# Gọi hàm để chuyển đổi và lưu file âm thanh
-# text_to_speech2(text_file, output_audio_file)y
+#Gọi hàm để chuyển đổi và lưu file âm thanh
+# text_to_speech2(text_file, output_audio_file)
 # Gọi hàm để chuyển đổi và lưu file âm thanh
 # text_to_speech1(text_file)
 
@@ -47,6 +47,6 @@ ffmpeg_dir = r'D:\python\learnpython\ffmpeg-master-latest-win64-gpl-shared\bin'
 # Chuyển đến thư mục chứa ffmpeg.exe
 os.chdir(ffmpeg_dir)
 
-cmd_speed = 'ffmpeg -i D:\python\learnpython\output_audio.mp3 -filter:a "atempo=1.5" D:\python\learnpython\output.mp3'
+cmd_speed = 'ffmpeg -i D:\python\learnpython\output_audio.mp3 -filter:a "atempo=1.7" D:\python\learnpython\output.mp3'
 # Thực thi lệnh cmd
 os.system(cmd_speed)
