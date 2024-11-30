@@ -4,6 +4,7 @@ import pytesseract
 import cv2
 from pytesseract import Output
 import re
+import np
 
 def CaptureScreen():
     # Khởi tạo đối tượng MSS
@@ -29,25 +30,34 @@ def CaptureScreen():
 
     print(output)
 
-def DetectData(date_pattern,word_pattern):
-    img = cv2.imread('D:\\python\\learnpython\\ReadComment\\captures\\Capture2.PNG')
-    d = pytesseract.image_to_data(img, output_type=Output.DICT)
-    
-    n_boxes = len(d['text'])
-    for i in range(n_boxes):
-        if int(d['conf'][i]) > 60:
-            text = d['text'][i]
+def DetectData(date_pattern,word_pattern,path):
+    img = cv2.imread(path)
+    # Tiền xử lý hình ảnh: chuyển sang thang độ xám và tăng độ tương phản
+    gray_image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    enhanced_image = cv2.equalizeHist(gray_image)
+    kernel = np.array([[0, -1, 0], 
+                   [-1, 5, -1], 
+                   [0, -1, 0]])
+    sharpened_image = cv2.filter2D(enhanced_image, -1, kernel)
 
+    # Áp dụng OCR trên ảnh đã xử lý
+    ocr_data = pytesseract.image_to_data(enhanced_image, output_type=Output.DICT)
+    
+    n_boxes = len(ocr_data['text'])
+    for i in range(n_boxes):
+        if int(ocr_data['conf'][i]) > 60:
+            text = ocr_data['text'][i]
+            print(text)
             # Kiểm tra nếu từ trùng khớp với biểu thức chính quy ngày tháng
-            if re.match(date_pattern, text):
+            if re.match(date_pattern, text,re.IGNORECASE):
                 print(f"Ngày tháng phát hiện: {text}")
-                (x, y, w, h) = (d['left'][i], d['top'][i], d['width'][i], d['height'][i])
+                (x, y, w, h) = (ocr_data['left'][i], ocr_data['top'][i], ocr_data['width'][i], ocr_data['height'][i])
                 img = cv2.rectangle(img, (x, y), (x + w, y + h), (0, 255, 0), 2)
             
             # Kiểm tra nếu từ trùng khớp với từ "File"
             if re.match(word_pattern, text, re.IGNORECASE):  # Thêm re.IGNORECASE để tìm cả "file" và "File"
                 print(f"Từ 'File' phát hiện: {text}")
-                (x, y, w, h) = (d['left'][i], d['top'][i], d['width'][i], d['height'][i])
+                (x, y, w, h) = (ocr_data['left'][i], ocr_data['top'][i], ocr_data['width'][i], ocr_data['height'][i])
                 img = cv2.rectangle(img, (x, y), (x + w, y + h), (255, 0, 0), 2)  # Đổi màu cho từ 'File'
 
     # Hiển thị ảnh với các hình chữ nhật xung quanh từ nhận diện
@@ -58,5 +68,6 @@ def DetectData(date_pattern,word_pattern):
 date_pattern = '^(0[1-9]|[12][0-9]|3[01])/(0[1-9]|1[012])/(19|20)\d\d$'
 # Biểu thức chính quy tìm kiếm từ "File"
 word_pattern = 'File'
+path = r"D:\python\learnpython\ReadComment\captures\oto1.webp"
 
-DetectData('4','Tesseract')
+DetectData('TR','Plaza',path)
